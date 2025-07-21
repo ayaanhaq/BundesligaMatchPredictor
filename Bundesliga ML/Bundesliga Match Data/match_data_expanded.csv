@@ -1,0 +1,613 @@
+﻿,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Sh,SoT,Dist,FK,PK,PKatt,Season,Team
+1,2024-08-25,15:30 (19:00),Matchweek 1,Sun,Away,W,3,2,Wolfsburg,2.4,1.9,70,"30,000",Manuel Neuer,4-2-3-1,Daniel Siebert,15,8,11.1,0,0,0,2023,Bayern Munich
+2,2024-09-01,17:30 (21:00),Matchweek 2,Sun,Home,W,2,0,Freiburg,1.5,1.0,66,"75,000",Manuel Neuer,4-1-4-1,Christian Dingert,11,2,16,0,1,1,2023,Bayern Munich
+3,2024-09-14,18:30 (22:00),Matchweek 3,Sat,Away,W,6,1,Holstein Kiel,3.2,0.3,70,"15,034",Manuel Neuer,4-2-3-1,Tobias Reichel,22,11,15.9,0,1,1,2023,Bayern Munich
+4,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Away,W,5,0,Werder Bremen,3.0,0.0,69,"42,100",Joshua Kimmich,4-2-3-1,Bastian Dankert,25,7,17.3,1,0,0,2023,Bayern Munich
+5,2024-09-28,18:30 (22:00),Matchweek 5,Sat,Home,D,1,1,Leverkusen,1.4,0.1,69,"75,000",Manuel Neuer,4-2-3-1,Felix Zwayer,18,3,19.3,1,0,0,2023,Bayern Munich
+6,2024-10-06,17:30 (21:00),Matchweek 6,Sun,Away,D,3,3,Eint Frankfurt,2.2,1.2,74,"58,000",Manuel Neuer,4-2-3-1,Benjamin Brand,24,13,17.5,2,0,0,2023,Bayern Munich
+7,2024-10-19,18:30 (22:00),Matchweek 7,Sat,Home,W,4,0,Stuttgart,3.2,0.5,65,"75,000",Manuel Neuer,4-2-3-1,Tobias Stieler,22,10,15.9,0,0,0,2023,Bayern Munich
+8,2024-10-27,15:30 (20:00),Matchweek 8,Sun,Away,W,5,0,Bochum,2.2,0.6,72,"26,000",Manuel Neuer,4-2-3-1,Florian Exner,19,10,17,1,0,0,2023,Bayern Munich
+9,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Home,W,3,0,Union Berlin,2.5,0.5,77,"75,000",Manuel Neuer,4-2-3-1,Matthias Jöllenbeck,15,6,16.6,0,1,1,2023,Bayern Munich
+10,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Away,W,1,0,St. Pauli,0.8,0.1,75,"29,546",Manuel Neuer,4-2-3-1,Timo Gerach,13,6,19,0,0,0,2023,Bayern Munich
+11,2024-11-22,20:30 (01:00),Matchweek 11,Fri,Home,W,3,0,Augsburg,3.7,0.1,80,"75,000",Manuel Neuer,4-2-3-1,Daniel Schlager,31,12,18.1,1,2,2,2023,Bayern Munich
+12,2024-11-30,18:30 (23:00),Matchweek 12,Sat,Away,D,1,1,Dortmund,1.5,0.6,67,"81,365",Manuel Neuer,4-2-3-1,Sven Jablonski,14,5,19.4,2,0,0,2023,Bayern Munich
+13,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Home,W,4,2,Heidenheim,2.4,1.3,82,"75,000",Thomas Müller,4-2-3-1,Sören Storks,21,10,15.8,0,0,0,2023,Bayern Munich
+14,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Away,L,1,2,Mainz 05,1.4,1.0,68,"33,305",Thomas Müller,4-2-3-1,Frank Willenborg,13,1,16.2,0,0,0,2023,Bayern Munich
+15,2024-12-20,20:30 (01:00),Matchweek 15,Fri,Home,W,5,1,RB Leipzig,3.3,0.4,71,"75,000",Joshua Kimmich,4-2-3-1,Daniel Siebert,22,9,14.6,1,0,0,2023,Bayern Munich
+16,2025-01-11,18:30 (23:00),Matchweek 16,Sat,Away,W,1,0,Gladbach,4.3,0.4,67,"54,042",Manuel Neuer,4-2-3-1,Felix Zwayer,22,9,16.8,1,1,1,2023,Bayern Munich
+17,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Home,W,5,0,Hoffenheim,3.4,0.2,65,"75,000",Manuel Neuer,4-2-3-1,Timo Gerach,24,9,15.7,0,1,1,2023,Bayern Munich
+18,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Home,W,3,2,Wolfsburg,3.0,0.5,71,"75,000",Manuel Neuer,4-2-3-1,Tobias Reichel,25,10,15.3,1,0,0,2023,Bayern Munich
+19,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Away,W,2,1,Freiburg,1.0,0.3,65,"34,700",Manuel Neuer,4-2-3-1,Daniel Siebert,7,3,16.8,0,0,0,2023,Bayern Munich
+20,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Home,W,4,3,Holstein Kiel,3.4,1.8,71,"75,000",Manuel Neuer,4-2-3-1,Florian Exner,29,11,16.9,1,0,0,2023,Bayern Munich
+21,2025-02-07,20:30 (01:00),Matchweek 21,Fri,Home,W,3,0,Werder Bremen,4.1,0.1,75,"75,000",Manuel Neuer,4-2-3-1,Sören Storks,19,10,17,0,2,2,2023,Bayern Munich
+22,2025-02-15,18:30 (23:00),Matchweek 22,Sat,Away,D,0,0,Leverkusen,0.0,2.0,43,"30,210",Manuel Neuer,4-2-3-1,Daniel Siebert,2,0,14.7,0,0,0,2023,Bayern Munich
+23,2025-02-23,17:30 (22:00),Matchweek 23,Sun,Home,W,4,0,Eint Frankfurt,3.8,0.5,63,"75,000",Manuel Neuer,4-2-3-1,Sascha Stegemann,19,10,13.1,0,0,0,2023,Bayern Munich
+24,2025-02-28,20:30 (01:00),Matchweek 24,Fri,Away,W,3,1,Stuttgart,2.2,0.9,47,"60,000",Manuel Neuer,4-2-3-1,Benjamin Brand,17,8,19.3,2,0,0,2023,Bayern Munich
+25,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Home,L,2,3,Bochum,2.4,1.1,73,"75,000",Thomas Müller,4-2-3-1,Christian Dingert,13,5,16.2,0,0,1,2023,Bayern Munich
+26,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Away,D,1,1,Union Berlin,1.6,0.7,80,"22,012",Joshua Kimmich,4-2-3-1,Florian Exner,18,4,21.1,1,0,0,2023,Bayern Munich
+27,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Home,W,3,2,St. Pauli,3.5,1.0,65,"75,000",Joshua Kimmich,4-2-3-1,Florian Badstübner,19,8,13.3,0,0,0,2023,Bayern Munich
+28,2025-04-04,20:30 (00:00),Matchweek 28,Fri,Away,W,3,1,Augsburg,2.4,0.4,69,"30,660",Joshua Kimmich,4-2-3-1,Matthias Jöllenbeck,19,7,16.8,2,0,0,2023,Bayern Munich
+29,2025-04-12,18:30 (22:00),Matchweek 29,Sat,Home,D,2,2,Dortmund,2.3,1.6,62,"75,000",Thomas Müller,4-2-3-1,Tobias Welz,28,11,17.8,0,0,0,2023,Bayern Munich
+30,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Away,W,4,0,Heidenheim,3.2,0.6,68,"15,000",Joshua Kimmich,4-2-3-1,Frank Willenborg,18,11,15.2,1,0,0,2023,Bayern Munich
+31,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Home,W,3,0,Mainz 05,1.1,0.7,59,"75,000",Joshua Kimmich,4-2-2-2,Bastian Dankert,14,6,16.4,0,0,0,2023,Bayern Munich
+32,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Away,D,3,3,RB Leipzig,1.6,1.2,62,"47,800",Thomas Müller,4-4-2,Felix Zwayer,20,6,16.6,0,0,0,2023,Bayern Munich
+33,2025-05-10,18:30 (22:00),Matchweek 33,Sat,Home,W,2,0,Gladbach,2.5,1.6,62,"75,000",Manuel Neuer,4-2-3-1,Sven Jablonski,24,9,17.7,0,0,0,2023,Bayern Munich
+34,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,4,0,Hoffenheim,1.4,0.4,66,"30,150",Manuel Neuer,4-2-3-1,Daniel Schlager,14,5,19.1,1,0,0,2023,Bayern Munich
+35,2024-08-23,20:30 (00:00),Matchweek 1,Fri,Away,W,3,2,Gladbach,2.7,1.6,57,"54,042",Lukáš Hrádecký,3-4-3,Robert Schröder,24,9,18.3,1,0,1,2023,Leverkusen
+36,2024-08-31,18:30 (22:00),Matchweek 2,Sat,Home,L,2,3,RB Leipzig,2.2,1.1,62,"29,615",Jonathan Tah,3-4-3,Matthias Jöllenbeck,26,10,15.6,0,0,0,2023,Leverkusen
+37,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Away,W,4,1,Hoffenheim,3.5,0.9,60,"30,150",Lukáš Hrádecký,3-4-3,Daniel Schlager,19,6,15.8,1,1,1,2023,Leverkusen
+38,2024-09-22,15:30 (19:00),Matchweek 4,Sun,Home,W,4,3,Wolfsburg,1.9,0.7,78,"29,250",Lukáš Hrádecký,3-4-3,Sascha Stegemann,20,7,16.3,0,0,0,2023,Leverkusen
+39,2024-09-28,18:30 (22:00),Matchweek 5,Sat,Away,D,1,1,Bayern Munich,0.1,1.4,31,"75,000",Lukáš Hrádecký,3-4-3,Felix Zwayer,3,2,40.5,0,0,0,2023,Leverkusen
+40,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Home,D,2,2,Holstein Kiel,2.1,1.6,74,"30,210",Lukáš Hrádecký,3-4-3,Robert Hartmann,23,7,18.3,0,0,0,2023,Leverkusen
+41,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Home,W,2,1,Eint Frankfurt,3.8,1.9,54,"30,210",Lukáš Hrádecký,3-4-3,Felix Brych,26,8,17.4,0,0,1,2023,Leverkusen
+42,2024-10-26,18:30 (22:00),Matchweek 8,Sat,Away,D,2,2,Werder Bremen,1.3,1.6,57,"42,100",Lukáš Hrádecký,3-4-3,Florian Badstübner,14,5,15.2,1,0,0,2023,Leverkusen
+43,2024-11-01,20:30 (01:00),Matchweek 9,Fri,Home,D,0,0,Stuttgart,2.2,0.3,53,"30,210",Lukáš Hrádecký,3-4-3,Daniel Siebert,19,5,13.4,0,0,0,2023,Leverkusen
+44,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Away,D,1,1,Bochum,1.2,0.7,70,"26,000",Lukáš Hrádecký,3-4-3,Robert Hartmann,11,3,16.4,0,0,0,2023,Leverkusen
+45,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Home,W,5,2,Heidenheim,2.2,1.1,78,"29,103",Lukáš Hrádecký,3-4-3,Bastian Dankert,20,10,17.8,0,0,0,2023,Leverkusen
+46,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Away,W,2,1,Union Berlin,0.9,0.7,62,"22,012",Lukáš Hrádecký,4-5-1,Christian Dingert,8,3,16.2,1,0,0,2023,Leverkusen
+47,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Home,W,2,1,St. Pauli,0.9,1.8,62,"30,210",Lukáš Hrádecký,3-5-2,Matthias Jöllenbeck,6,2,18.6,1,0,0,2023,Leverkusen
+48,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Away,W,2,0,Augsburg,0.8,0.6,65,"29,310",Lukáš Hrádecký,3-4-3,Felix Zwayer,14,3,22.1,3,0,0,2023,Leverkusen
+49,2024-12-21,18:30 (23:00),Matchweek 15,Sat,Home,W,5,1,Freiburg,2.8,0.7,67,"30,210",Lukáš Hrádecký,3-4-3,Tobias Stieler,19,11,15.6,0,0,1,2023,Leverkusen
+50,2025-01-10,20:45 (01:15),Matchweek 16,Fri,Away,W,3,2,Dortmund,1.6,1.3,30,"81,365",Lukáš Hrádecký,4-4-2,Tobias Stieler,7,5,13.4,0,0,0,2023,Leverkusen
+51,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Home,W,1,0,Mainz 05,1.8,0.7,66,"30,210",Granit Xhaka,3-4-3,Tobias Welz,20,8,18.2,1,0,0,2023,Leverkusen
+52,2025-01-18,18:30 (23:00),Matchweek 18,Sat,Home,W,3,1,Gladbach,2.1,0.6,55,"30,210",Lukáš Hrádecký,4-2-3-1,Harm Osmers,9,4,17.1,0,1,1,2023,Leverkusen
+53,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Away,D,2,2,RB Leipzig,2.4,0.7,35,"46,793",Lukáš Hrádecký,4-2-3-1,Bastian Dankert,13,6,15.5,0,0,0,2023,Leverkusen
+54,2025-02-02,17:30 (22:00),Matchweek 20,Sun,Home,W,3,1,Hoffenheim,1.4,1.9,48,"29,278",Lukáš Hrádecký,3-4-3,Robin Braun,9,5,17,0,0,0,2023,Leverkusen
+55,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Away,D,0,0,Wolfsburg,1.4,0.7,59,"28,198",Lukáš Hrádecký,3-5-2,Sascha Stegemann,15,1,13.7,0,0,0,2023,Leverkusen
+56,2025-02-15,18:30 (23:00),Matchweek 22,Sat,Home,D,0,0,Bayern Munich,2.0,0.0,57,"30,210",Lukáš Hrádecký,4-4-2,Daniel Siebert,15,2,15.8,0,0,0,2023,Leverkusen
+57,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Away,W,2,0,Holstein Kiel,1.8,0.3,62,"15,034",Jonathan Tah,3-4-3,Daniel Schlager,18,7,13.9,1,0,0,2023,Leverkusen
+58,2025-03-01,18:30 (23:00),Matchweek 24,Sat,Away,W,4,1,Eint Frankfurt,2.0,1.1,59,"58,000",Lukáš Hrádecký,3-4-3,Felix Zwayer,20,9,15.1,0,0,0,2023,Leverkusen
+59,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Home,L,0,2,Werder Bremen,1.6,1.1,72,"30,210",Lukáš Hrádecký,3-4-3,Tobias Welz,18,4,16.8,1,0,0,2023,Leverkusen
+60,2025-03-16,19:30 (00:00),Matchweek 26,Sun,Away,W,4,3,Stuttgart,1.7,2.3,57,"59,000",Lukáš Hrádecký,4-4-1-1,Daniel Siebert,16,4,14.2,0,0,0,2023,Leverkusen
+61,2025-03-28,20:30 (01:00),Matchweek 27,Fri,Home,W,3,1,Bochum,2.0,0.5,66,"30,210",Lukáš Hrádecký,3-5-2,Sven Jablonski,14,5,19,0,0,0,2023,Leverkusen
+62,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Away,W,1,0,Heidenheim,0.4,1.0,51,"15,000",Lukáš Hrádecký,3-4-3,Tobias Stieler,6,2,21.6,0,0,0,2023,Leverkusen
+63,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Home,D,0,0,Union Berlin,0.8,0.5,74,"30,210",Lukáš Hrádecký,3-5-2,Bastian Dankert,17,4,18.5,1,0,0,2023,Leverkusen
+64,2025-04-20,19:30 (23:00),Matchweek 30,Sun,Away,D,1,1,St. Pauli,0.8,1.1,57,"29,546",Lukáš Hrádecký,3-4-3,Sören Storks,6,4,15.5,0,0,0,2023,Leverkusen
+65,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Home,W,2,0,Augsburg,0.9,0.7,53,"29,563",Jonathan Tah,4-4-1-1,Christian Dingert,14,5,18.4,0,0,0,2023,Leverkusen
+66,2025-05-04,17:30 (21:00),Matchweek 32,Sun,Away,D,2,2,Freiburg,0.3,0.9,67,"34,700",Jonathan Tah,3-4-3,Daniel Siebert,5,2,19.2,0,0,0,2023,Leverkusen
+67,2025-05-11,15:30 (19:00),Matchweek 33,Sun,Home,L,2,4,Dortmund,2.2,1.2,62,"30,210",Jonathan Tah,3-4-3,Deniz Aytekin,19,10,16.8,0,0,0,2023,Leverkusen
+68,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,D,2,2,Mainz 05,1.2,3.1,52,"33,305",Lukáš Hrádecký,3-4-3,Tobias Reichel,6,3,16.9,0,1,1,2023,Leverkusen
+69,2024-08-24,18:30 (22:00),Matchweek 1,Sat,Away,L,0,2,Dortmund,1.4,1.7,31,"81,365",Kevin Trapp,4-2-3-1,Felix Zwayer,7,2,17,0,0,0,2023,Eintracht Frankfurt
+70,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Home,W,3,1,Hoffenheim,2.4,1.0,50,"57,100",Kevin Trapp,3-4-3,Florian Badstübner,18,7,15.5,0,0,0,2023,Eintracht Frankfurt
+71,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Away,W,2,1,Wolfsburg,2.5,1.5,40,"26,281",Kevin Trapp,4-4-2,Harm Osmers,13,5,16.4,0,1,1,2023,Eintracht Frankfurt
+72,2024-09-21,18:30 (22:00),Matchweek 4,Sat,Home,W,2,0,Gladbach,2.7,1.7,37,"58,000",Robin Koch,4-4-2,Tobias Welz,18,4,16.2,2,0,0,2023,Eintracht Frankfurt
+73,2024-09-29,15:30 (19:00),Matchweek 5,Sun,Away,W,4,2,Holstein Kiel,2.1,1.1,53,"15,034",Robin Koch,4-2-3-1,Tobias Stieler,20,10,14.6,0,0,0,2023,Eintracht Frankfurt
+74,2024-10-06,17:30 (21:00),Matchweek 6,Sun,Home,D,3,3,Bayern Munich,1.2,2.2,26,"58,000",Robin Koch,4-4-2,Benjamin Brand,6,4,16.9,0,0,0,2023,Eintracht Frankfurt
+75,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Away,L,1,2,Leverkusen,1.9,3.8,46,"30,210",Kevin Trapp,4-4-2,Felix Brych,8,0,18.8,0,1,1,2023,Eintracht Frankfurt
+76,2024-10-27,17:30 (22:00),Matchweek 8,Sun,Away,D,1,1,Union Berlin,1.5,1.4,52,"22,012",Kevin Trapp,3-5-2,Harm Osmers,17,5,17.4,1,0,0,2023,Eintracht Frankfurt
+77,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Home,W,7,2,Bochum,3.5,1.8,64,"58,000",Kevin Trapp,4-4-2,Daniel Schlager,18,9,17,2,0,0,2023,Eintracht Frankfurt
+78,2024-11-10,17:30 (22:00),Matchweek 10,Sun,Away,W,3,2,Stuttgart,1.3,2.5,40,"60,000",Kevin Trapp,4-4-2,Felix Zwayer,8,5,16.6,1,0,0,2023,Eintracht Frankfurt
+79,2024-11-23,18:30 (23:00),Matchweek 11,Sat,Home,W,1,0,Werder Bremen,1.1,0.4,50,"58,000",Kevin Trapp,4-4-2,Florian Badstübner,15,5,19.6,0,0,0,2023,Eintracht Frankfurt
+80,2024-12-01,17:30 (22:00),Matchweek 12,Sun,Away,W,4,0,Heidenheim,2.6,0.7,54,"15,000",Kevin Trapp,4-4-2,Florian Exner,14,8,17.2,0,0,0,2023,Eintracht Frankfurt
+81,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Home,D,2,2,Augsburg,1.7,0.6,66,"57,000",Kevin Trapp,4-2-2-2,Bastian Dankert,16,4,16,0,0,0,2023,Eintracht Frankfurt
+82,2024-12-15,19:30 (00:00),Matchweek 14,Sun,Away,L,1,2,RB Leipzig,0.9,1.9,56,"40,193",Kevin Trapp,3-4-3,Benjamin Brand,16,3,16.9,1,0,0,2023,Eintracht Frankfurt
+83,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Home,L,1,3,Mainz 05,2.4,0.6,70,"58,000",Robin Koch,3-5-2,Florian Badstübner,34,8,16.3,0,0,0,2023,Eintracht Frankfurt
+84,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Away,W,1,0,St. Pauli,1.5,2.2,57,"29,546",Kevin Trapp,3-1-4-2,Harm Osmers,14,6,14.5,0,0,0,2023,Eintracht Frankfurt
+85,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Home,W,4,1,Freiburg,2.4,0.5,64,"56,500",Kevin Trapp,3-1-4-2,Sven Jablonski,23,8,16.1,1,0,0,2023,Eintracht Frankfurt
+86,2025-01-17,20:30 (01:00),Matchweek 18,Fri,Home,W,2,0,Dortmund,1.7,0.8,33,"58,000",Kevin Trapp,3-4-3,Daniel Schlager,13,5,16.3,0,0,0,2023,Eintracht Frankfurt
+87,2025-01-26,15:30 (20:00),Matchweek 19,Sun,Away,D,2,2,Hoffenheim,2.4,2.4,49,"30,150",Kevin Trapp,3-4-3,Sascha Stegemann,11,6,15.3,0,1,1,2023,Eintracht Frankfurt
+88,2025-02-02,15:30 (20:00),Matchweek 20,Sun,Home,D,1,1,Wolfsburg,1.2,1.2,61,"56,900",Kevin Trapp,3-4-3,Benjamin Brand,16,4,17.2,0,0,0,2023,Eintracht Frankfurt
+89,2025-02-08,18:30 (23:00),Matchweek 21,Sat,Away,D,1,1,Gladbach,2.2,0.4,47,"54,042",Kevin Trapp,4-4-2,Christian Dingert,15,7,16,0,0,0,2023,Eintracht Frankfurt
+90,2025-02-16,17:30 (22:00),Matchweek 22,Sun,Home,W,3,1,Holstein Kiel,2.5,1.4,51,"57,700",Kevin Trapp,3-4-3,Robert Hartmann,19,8,19.1,1,0,1,2023,Eintracht Frankfurt
+91,2025-02-23,17:30 (22:00),Matchweek 23,Sun,Away,L,0,4,Bayern Munich,0.5,3.8,37,"75,000",Kevin Trapp,3-4-3,Sascha Stegemann,7,2,16.3,0,0,0,2023,Eintracht Frankfurt
+92,2025-03-01,18:30 (23:00),Matchweek 24,Sat,Home,L,1,4,Leverkusen,1.1,2.0,41,"58,000",Kevin Trapp,3-1-4-2,Felix Zwayer,7,3,16.1,0,0,0,2023,Eintracht Frankfurt
+93,2025-03-09,15:30 (20:00),Matchweek 25,Sun,Home,L,1,2,Union Berlin,1.8,0.9,66,"58,000",Kevin Trapp,4-2-3-1,Frank Willenborg,13,2,16.5,0,0,1,2023,Eintracht Frankfurt
+94,2025-03-16,15:30 (20:00),Matchweek 26,Sun,Away,W,3,1,Bochum,2.5,1.4,49,"26,000",Robin Koch,4-2-3-1,Felix Zwayer,18,7,15.4,1,0,0,2023,Eintracht Frankfurt
+95,2025-03-29,18:30 (23:00),Matchweek 27,Sat,Home,W,1,0,Stuttgart,3.7,1.2,46,"58,000",Robin Koch,4-2-3-1,Deniz Aytekin,19,5,14.9,1,0,0,2023,Eintracht Frankfurt
+96,2025-04-05,18:30 (22:00),Matchweek 28,Sat,Away,L,0,2,Werder Bremen,0.5,1.0,62,"42,100",Robin Koch,4-2-3-1,Daniel Siebert,9,0,18,1,0,0,2023,Eintracht Frankfurt
+97,2025-04-13,17:30 (21:00),Matchweek 29,Sun,Home,W,3,0,Heidenheim,3.7,1.7,44,"57,500",Robin Koch,4-2-3-1,Timo Gerach,19,8,19.8,0,0,0,2023,Eintracht Frankfurt
+98,2025-04-20,15:30 (19:00),Matchweek 30,Sun,Away,D,0,0,Augsburg,1.1,0.9,54,"30,660",Kevin Trapp,3-5-2,Florian Badstübner,8,4,10.8,0,0,0,2023,Eintracht Frankfurt
+99,2025-04-26,18:30 (22:00),Matchweek 31,Sat,Home,W,4,0,RB Leipzig,2.1,0.4,46,"56,500",Kevin Trapp,3-4-3,Matthias Jöllenbeck,9,5,13.1,1,0,0,2023,Eintracht Frankfurt
+100,2025-05-04,19:30 (23:00),Matchweek 32,Sun,Away,D,1,1,Mainz 05,1.3,1.4,36,"33,305",Kevin Trapp,3-4-3,Martin Petersen,8,2,18.1,0,0,0,2023,Eintracht Frankfurt
+101,2025-05-11,17:30 (21:00),Matchweek 33,Sun,Home,D,2,2,St. Pauli,1.7,0.8,72,"58,000",Kevin Trapp,3-4-3,Christian Dingert,13,5,14.9,0,0,0,2023,Eintracht Frankfurt
+102,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,3,1,Freiburg,2.0,0.7,41,"34,700",Kevin Trapp,3-4-3,Benjamin Brand,11,6,13.4,0,0,0,2023,Eintracht Frankfurt
+103,2024-08-24,18:30 (22:00),Matchweek 1,Sat,Home,W,2,0,Eint Frankfurt,1.7,1.4,69,"81,365",Emre Can,3-4-3,Felix Zwayer,20,5,17.2,0,0,0,2023,Dortmund
+104,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Away,D,0,0,Werder Bremen,0.6,0.3,53,"42,100",Emre Can,4-2-3-1,Robert Hartmann,9,4,20.2,0,0,0,2023,Dortmund
+105,2024-09-13,20:30 (00:00),Matchweek 3,Fri,Home,W,4,2,Heidenheim,2.6,1.8,60,"81,365",Julian Brandt,4-2-3-1,Robert Schröder,12,5,17,0,1,1,2023,Dortmund
+106,2024-09-22,17:30 (21:00),Matchweek 4,Sun,Away,L,1,5,Stuttgart,0.7,3.4,48,"60,000",Julian Brandt,4-2-3-1,Florian Badstübner,7,3,12.9,0,0,0,2023,Dortmund
+107,2024-09-27,20:30 (00:00),Matchweek 5,Fri,Home,W,4,2,Bochum,3.2,1.3,66,"81,365",Emre Can,4-2-3-1,Felix Brych,22,7,16.4,0,1,1,2023,Dortmund
+108,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Away,L,1,2,Union Berlin,0.7,1.5,67,"22,012",Emre Can,4-2-3-1,Tobias Reichel,8,4,18.3,0,0,0,2023,Dortmund
+109,2024-10-18,20:30 (00:00),Matchweek 7,Fri,Home,W,2,1,St. Pauli,2.6,0.6,74,"81,365",Emre Can,4-2-3-1,Matthias Jöllenbeck,20,7,13.4,0,0,0,2023,Dortmund
+110,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Away,L,1,2,Augsburg,1.0,0.6,75,"30,660",Julian Brandt,4-2-3-1,Tobias Welz,11,4,20.1,0,0,0,2023,Dortmund
+111,2024-11-02,18:30 (23:00),Matchweek 9,Sat,Home,W,2,1,RB Leipzig,2.0,0.5,57,"81,365",Emre Can,4-1-4-1,Tobias Stieler,20,7,14.3,1,0,0,2023,Dortmund
+112,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Away,L,1,3,Mainz 05,0.9,2.0,47,"33,000",Emre Can,4-1-4-1,Florian Badstübner,1,0,23,0,1,1,2023,Dortmund
+113,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Home,W,4,0,Freiburg,1.3,0.8,59,"81,365",Julian Brandt,4-1-4-1,Felix Brych,19,7,18.7,1,0,0,2023,Dortmund
+114,2024-11-30,18:30 (23:00),Matchweek 12,Sat,Home,D,1,1,Bayern Munich,0.6,1.5,33,"81,365",Nico Schlotterbeck,4-2-3-1,Sven Jablonski,7,2,18.3,0,0,0,2023,Dortmund
+115,2024-12-07,18:30 (23:00),Matchweek 13,Sat,Away,D,1,1,Gladbach,1.5,1.1,60,"54,042",Nico Schlotterbeck,4-2-3-1,Tobias Stieler,16,3,14.6,0,0,0,2023,Dortmund
+116,2024-12-15,17:30 (22:00),Matchweek 14,Sun,Home,D,1,1,Hoffenheim,0.5,1.0,54,"81,365",Emre Can,4-2-3-1,Harm Osmers,6,2,16.9,1,0,0,2023,Dortmund
+117,2024-12-22,17:30 (22:00),Matchweek 15,Sun,Away,W,3,1,Wolfsburg,2.7,1.5,50,"28,917",Emre Can,4-1-3-2,Matthias Jöllenbeck,12,4,13.7,0,0,0,2023,Dortmund
+118,2025-01-10,20:45 (01:15),Matchweek 16,Fri,Home,L,2,3,Leverkusen,1.3,1.6,70,"81,365",Julian Brandt,4-1-3-2,Tobias Stieler,11,4,19.3,0,1,1,2023,Dortmund
+119,2025-01-14,18:30 (23:00),Matchweek 17,Tue,Away,L,2,4,Holstein Kiel,1.0,1.6,75,"15,034",Emre Can,4-1-4-1,Martin Petersen,16,4,18,0,0,0,2023,Dortmund
+120,2025-01-17,20:30 (01:00),Matchweek 18,Fri,Away,L,0,2,Eint Frankfurt,0.8,1.7,67,"58,000",Emre Can,3-4-3,Daniel Schlager,12,3,15,0,0,0,2023,Dortmund
+121,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Home,D,2,2,Werder Bremen,1.0,1.3,46,"81,365",Emre Can,4-3-3,Christian Dingert,8,4,15.8,1,0,0,2023,Dortmund
+122,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Away,W,2,1,Heidenheim,2.2,0.6,63,"15,000",Emre Can,3-2-4-1,Frank Willenborg,16,5,15,0,0,0,2023,Dortmund
+123,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Home,L,1,2,Stuttgart,1.4,0.3,68,"81,365",Emre Can,4-2-3-1,Daniel Siebert,16,5,18.2,2,0,0,2023,Dortmund
+124,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Away,L,0,2,Bochum,2.6,2.7,69,"26,000",Emre Can,4-2-3-1,Harm Osmers,17,2,16.5,2,0,0,2023,Dortmund
+125,2025-02-22,18:30 (23:00),Matchweek 23,Sat,Home,W,6,0,Union Berlin,4.8,0.3,64,"81,365",Emre Can,4-2-3-1,Bastian Dankert,24,8,12.8,0,0,0,2023,Dortmund
+126,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Away,W,2,0,St. Pauli,1.5,0.4,57,"29,546",Emre Can,4-2-3-1,Tobias Stieler,14,3,14.3,0,0,0,2023,Dortmund
+127,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Home,L,0,1,Augsburg,1.2,0.2,71,"81,365",Emre Can,4-2-3-1,Deniz Aytekin,15,1,15.1,0,0,0,2023,Dortmund
+128,2025-03-15,18:30 (23:00),Matchweek 26,Sat,Away,L,0,2,RB Leipzig,3.0,1.8,66,"47,800",Emre Can,4-2-3-1,Matthias Jöllenbeck,25,9,15,0,0,0,2023,Dortmund
+129,2025-03-30,17:30 (21:00),Matchweek 27,Sun,Home,W,3,1,Mainz 05,2.8,0.8,44,"81,365",Emre Can,3-1-4-2,Daniel Schlager,18,7,17.6,1,0,0,2023,Dortmund
+130,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Away,W,4,1,Freiburg,3.3,1.8,46,"34,700",Emre Can,3-5-2,Felix Zwayer,18,7,12.7,0,0,0,2023,Dortmund
+131,2025-04-12,18:30 (22:00),Matchweek 29,Sat,Away,D,2,2,Bayern Munich,1.6,2.3,38,"75,000",Emre Can,3-1-4-2,Tobias Welz,11,3,14.8,0,0,0,2023,Dortmund
+132,2025-04-20,17:30 (21:00),Matchweek 30,Sun,Home,W,3,2,Gladbach,1.4,1.4,59,"81,365",Gregor Kobel,3-4-3,Daniel Siebert,14,6,16.8,0,0,0,2023,Dortmund
+133,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Away,W,3,2,Hoffenheim,2.6,1.1,61,"30,150",Emre Can,3-4-3,Benjamin Brand,15,7,16.8,0,0,1,2023,Dortmund
+134,2025-05-03,18:30 (22:00),Matchweek 32,Sat,Home,W,4,0,Wolfsburg,2.4,0.7,54,"81,365",Julian Brandt,3-4-3,Felix Brych,11,5,12.8,0,0,0,2023,Dortmund
+135,2025-05-11,15:30 (19:00),Matchweek 33,Sun,Away,W,4,2,Leverkusen,1.2,2.2,38,"30,210",Julian Brandt,3-4-3,Deniz Aytekin,9,5,19.5,0,0,0,2023,Dortmund
+136,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,W,3,0,Holstein Kiel,2.4,0.8,73,"81,365",Julian Brandt,3-4-3,Harm Osmers,18,5,19,0,1,1,2023,Dortmund
+137,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Home,W,3,1,Stuttgart,2.1,0.4,33,"34,700",Christian Günter,4-2-3-1,Tobias Welz,16,5,16.4,1,0,0,2023,Freiburg
+138,2024-09-01,17:30 (21:00),Matchweek 2,Sun,Away,L,0,2,Bayern Munich,1.0,1.5,34,"75,000",Christian Günter,4-2-3-1,Christian Dingert,8,3,26.8,0,0,1,2023,Freiburg
+139,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Home,W,2,1,Bochum,3.7,0.9,54,"34,100",Christian Günter,4-2-3-1,Daniel Siebert,26,8,14.4,0,0,0,2023,Freiburg
+140,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Away,W,3,0,Heidenheim,1.4,0.7,58,"15,000",Christian Günter,4-2-3-1,Benjamin Brand,15,5,16.8,0,0,0,2023,Freiburg
+141,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Home,L,0,3,St. Pauli,1.2,1.1,73,"34,700",Christian Günter,4-2-3-1,Timo Gerach,8,1,16.9,1,0,1,2023,Freiburg
+142,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Away,W,1,0,Werder Bremen,1.0,1.0,42,"41,200",Christian Günter,4-2-3-1,Tobias Welz,15,3,20.6,0,0,0,2023,Freiburg
+143,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Home,W,3,1,Augsburg,0.8,0.6,57,"33,500",Christian Günter,4-2-3-1,Bastian Dankert,15,6,19.8,0,0,0,2023,Freiburg
+144,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Away,L,1,3,RB Leipzig,1.7,1.8,57,"45,908",Christian Günter,4-2-3-1,Sven Jablonski,15,5,18,2,0,0,2023,Freiburg
+145,2024-11-03,15:30 (20:00),Matchweek 9,Sun,Home,D,0,0,Mainz 05,0.8,0.5,51,"34,400",Christian Günter,4-2-3-1,Benjamin Brand,10,2,19.7,0,0,0,2023,Freiburg
+146,2024-11-08,20:30 (01:00),Matchweek 10,Fri,Away,D,0,0,Union Berlin,1.7,0.7,59,"22,012",Christian Günter,4-2-3-1,Tobias Reichel,13,3,19.8,0,0,1,2023,Freiburg
+147,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Away,L,0,4,Dortmund,0.8,1.3,41,"81,365",Christian Günter,4-2-3-1,Felix Brych,7,2,18.1,0,0,0,2023,Freiburg
+148,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Home,W,3,1,Gladbach,1.6,1.5,48,"34,700",Christian Günter,4-2-3-1,Robert Hartmann,17,7,16.5,1,0,0,2023,Freiburg
+149,2024-12-08,17:30 (22:00),Matchweek 13,Sun,Away,D,1,1,Hoffenheim,1.0,1.4,50,"22,027",Christian Günter,4-4-2,Sven Jablonski,11,4,15.1,0,0,0,2023,Freiburg
+150,2024-12-13,20:30 (01:00),Matchweek 14,Fri,Home,W,3,2,Wolfsburg,2.1,1.8,53,"32,600",Christian Günter,4-2-2-2,Sascha Stegemann,18,9,14.9,0,0,0,2023,Freiburg
+151,2024-12-21,18:30 (23:00),Matchweek 15,Sat,Away,L,1,5,Leverkusen,0.7,2.8,33,"30,210",Christian Günter,4-2-3-1,Tobias Stieler,8,2,17.7,0,0,0,2023,Freiburg
+152,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Home,W,3,2,Holstein Kiel,0.7,1.8,51,"33,700",Christian Günter,4-2-3-1,Sören Storks,14,5,18,1,0,0,2023,Freiburg
+153,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Away,L,1,4,Eint Frankfurt,0.5,2.4,36,"56,500",Christian Günter,4-3-3,Sven Jablonski,7,5,25,1,0,0,2023,Freiburg
+154,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Away,L,0,4,Stuttgart,0.2,1.9,44,"60,000",Christian Günter,4-2-3-1,Felix Zwayer,4,0,17.7,0,0,0,2023,Freiburg
+155,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Home,L,1,2,Bayern Munich,0.3,1.0,35,"34,700",Maximilian Eggestein,4-2-3-1,Daniel Siebert,7,2,14.8,0,0,0,2023,Freiburg
+156,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Away,W,1,0,Bochum,1.7,1.0,42,"25,900",Christian Günter,4-2-3-1,Tobias Welz,13,4,14.1,1,0,0,2023,Freiburg
+157,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Home,W,1,0,Heidenheim,1.0,0.5,53,"34,000",Christian Günter,4-2-3-1,Timo Gerach,9,3,13.7,0,0,0,2023,Freiburg
+158,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Away,W,1,0,St. Pauli,1.3,0.2,46,"29,546",Christian Günter,4-2-3-1,Benjamin Brand,4,2,26.6,2,0,1,2023,Freiburg
+159,2025-02-21,20:30 (01:00),Matchweek 23,Fri,Home,W,5,0,Werder Bremen,1.8,1.2,37,"34,700",Christian Günter,4-2-3-1,Max Burda,13,6,15.2,1,0,0,2023,Freiburg
+160,2025-03-02,17:30 (22:00),Matchweek 24,Sun,Away,D,0,0,Augsburg,0.8,1.5,49,"29,651",Christian Günter,4-2-3-1,Harm Osmers,7,3,21.3,1,0,0,2023,Freiburg
+161,2025-03-08,18:30 (23:00),Matchweek 25,Sat,Home,D,0,0,RB Leipzig,0.5,1.5,53,"32,900",Christian Günter,4-2-3-1,Sven Jablonski,10,2,25.2,1,0,0,2023,Freiburg
+162,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Away,D,2,2,Mainz 05,3.1,1.3,56,"33,305",Christian Günter,4-4-1-1,Benjamin Brand,24,8,13.4,1,0,0,2023,Freiburg
+163,2025-03-30,15:30 (19:00),Matchweek 27,Sun,Home,L,1,2,Union Berlin,1.4,1.0,72,"34,300",Christian Günter,4-4-1-1,Sören Storks,9,3,19.5,1,0,0,2023,Freiburg
+164,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Home,L,1,4,Dortmund,1.8,3.3,54,"34,700",Vincenzo Grifo,4-2-3-1,Felix Zwayer,12,2,14.5,0,0,0,2023,Freiburg
+165,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Away,W,2,1,Gladbach,1.6,0.7,58,"53,981",Christian Günter,4-2-3-1,Deniz Aytekin,19,7,13.1,0,0,0,2023,Freiburg
+166,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Home,W,3,2,Hoffenheim,1.3,1.5,40,"34,100",Vincenzo Grifo,4-4-1-1,Sascha Stegemann,12,6,14.9,0,0,0,2023,Freiburg
+167,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Away,W,1,0,Wolfsburg,1.6,0.3,56,"23,145",Vincenzo Grifo,4-4-1-1,Sven Jablonski,15,2,17.1,1,0,0,2023,Freiburg
+168,2025-05-04,17:30 (21:00),Matchweek 32,Sun,Home,D,2,2,Leverkusen,0.9,0.3,33,"34,700",Vincenzo Grifo,4-4-1-1,Daniel Siebert,7,3,15.6,0,0,0,2023,Freiburg
+169,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Away,W,2,1,Holstein Kiel,1.4,1.0,40,"15,034",Vincenzo Grifo,4-4-1-1,Robert Schröder,9,3,10.3,0,0,0,2023,Freiburg
+170,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,1,3,Eint Frankfurt,0.7,2.0,59,"34,700",Vincenzo Grifo,4-4-1-1,Benjamin Brand,8,1,13,0,0,0,2023,Freiburg
+171,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Home,D,1,1,Union Berlin,1.2,0.6,53,"31,500",Jonathan Burkardt,3-4-3,Harm Osmers,14,3,15.4,1,0,0,2023,Mainz 05
+172,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Away,D,3,3,Stuttgart,2.3,3.8,37,"59,000",Jonathan Burkardt,3-4-3,Timo Gerach,10,6,21.6,1,1,1,2023,Mainz 05
+173,2024-09-15,17:30 (21:00),Matchweek 3,Sun,Home,L,1,2,Werder Bremen,1.1,1.6,58,"32,000",Jonathan Burkardt,3-4-3,Benjamin Brand,16,5,16.9,1,0,0,2023,Mainz 05
+174,2024-09-20,20:30 (00:00),Matchweek 4,Fri,Away,W,3,2,Augsburg,1.0,2.4,27,"28,913",Jonathan Burkardt,3-4-3,Sören Storks,5,3,11.4,0,0,0,2023,Mainz 05
+175,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Home,L,0,2,Heidenheim,0.6,1.2,50,"31,500",Silvan Widmer,3-4-3,Florian Exner,7,1,17.9,1,0,0,2023,Mainz 05
+176,2024-10-05,18:30 (22:00),Matchweek 6,Sat,Away,W,3,0,St. Pauli,1.1,1.0,44,"29,546",Jonathan Burkardt,3-4-3,Christian Dingert,8,4,21.4,0,0,0,2023,Mainz 05
+177,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Home,L,0,2,RB Leipzig,0.6,1.9,53,"30,100",Jonathan Burkardt,3-4-3,Felix Zwayer,17,2,18.1,0,0,0,2023,Mainz 05
+178,2024-10-25,20:30 (00:00),Matchweek 8,Fri,Home,D,1,1,Gladbach,1.7,0.7,52,"33,000",Jonathan Burkardt,3-4-3,Martin Petersen,23,6,19.2,0,0,0,2023,Mainz 05
+179,2024-11-03,15:30 (20:00),Matchweek 9,Sun,Away,D,0,0,Freiburg,0.5,0.8,49,"34,400",Jonathan Burkardt,3-4-3,Benjamin Brand,9,2,17,0,0,0,2023,Mainz 05
+180,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Home,W,3,1,Dortmund,2.0,0.9,53,"33,000",Jonathan Burkardt,3-4-3,Florian Badstübner,13,9,13.4,0,0,0,2023,Mainz 05
+181,2024-11-24,15:30 (20:00),Matchweek 11,Sun,Away,W,3,0,Holstein Kiel,2.2,0.4,62,"14,906",Jonathan Burkardt,3-4-3,Sascha Stegemann,17,6,18,1,1,1,2023,Mainz 05
+182,2024-12-01,15:30 (20:00),Matchweek 12,Sun,Home,W,2,0,Hoffenheim,2.2,0.4,52,"30,400",Jonathan Burkardt,3-4-3,Daniel Siebert,18,8,14.8,0,0,0,2023,Mainz 05
+183,2024-12-08,15:30 (20:00),Matchweek 13,Sun,Away,L,3,4,Wolfsburg,2.6,1.2,56,"20,036",Jonathan Burkardt,3-4-3,Timo Gerach,12,5,13.1,1,0,0,2023,Mainz 05
+184,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Home,W,2,1,Bayern Munich,1.0,1.4,32,"33,305",Jonathan Burkardt,3-4-3,Frank Willenborg,8,4,15.1,0,0,0,2023,Mainz 05
+185,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Away,W,3,1,Eint Frankfurt,0.6,2.4,30,"58,000",Nadiem Amiri,3-4-3,Florian Badstübner,9,3,18.2,0,0,0,2023,Mainz 05
+186,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Home,W,2,0,Bochum,1.9,0.6,58,"32,000",Jonathan Burkardt,3-4-3,Benjamin Brand,10,5,12.1,0,0,0,2023,Mainz 05
+187,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Away,L,0,1,Leverkusen,0.7,1.8,34,"30,210",Jonathan Burkardt,3-4-3,Tobias Welz,7,4,15,0,0,0,2023,Mainz 05
+188,2025-01-19,15:30 (20:00),Matchweek 18,Sun,Away,L,1,2,Union Berlin,1.7,2.1,66,"21,646",Nadiem Amiri,3-4-3,Florian Exner,8,0,20.7,0,1,1,2023,Mainz 05
+189,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Home,W,2,0,Stuttgart,1.9,1.1,44,"33,000",Nadiem Amiri,3-4-3,Tobias Stieler,11,4,15.3,0,0,0,2023,Mainz 05
+190,2025-01-31,20:30 (01:00),Matchweek 20,Fri,Away,L,0,1,Werder Bremen,1.2,2.5,62,"40,500",Nadiem Amiri,3-4-3,Martin Petersen,13,2,15.8,1,0,0,2023,Mainz 05
+191,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Home,D,0,0,Augsburg,1.3,0.3,66,"33,000",Silvan Widmer,3-4-3,Daniel Schlager,9,5,14.5,0,0,0,2023,Mainz 05
+192,2025-02-16,19:30 (00:00),Matchweek 22,Sun,Away,W,2,0,Heidenheim,2.0,0.6,44,"15,000",Jonathan Burkardt,3-4-1-2,Felix Brych,6,5,13.4,0,0,0,2023,Mainz 05
+193,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Home,W,2,0,St. Pauli,1.2,0.8,53,"33,305",Jonathan Burkardt,3-4-1-2,Felix Zwayer,10,5,17.2,0,0,0,2023,Mainz 05
+194,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Away,W,2,1,RB Leipzig,1.5,1.4,51,"41,406",Jonathan Burkardt,3-4-3,Daniel Siebert,15,3,15.9,0,0,0,2023,Mainz 05
+195,2025-03-07,20:30 (01:00),Matchweek 25,Fri,Away,W,3,1,Gladbach,1.5,1.4,43,"51,749",Jonathan Burkardt,3-4-3,Sascha Stegemann,15,7,18.9,0,0,0,2023,Mainz 05
+196,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Home,D,2,2,Freiburg,1.3,3.1,44,"33,305",Jonathan Burkardt,3-4-3,Benjamin Brand,9,4,20.2,0,0,0,2023,Mainz 05
+197,2025-03-30,17:30 (21:00),Matchweek 27,Sun,Away,L,1,3,Dortmund,0.8,2.8,56,"81,365",Silvan Widmer,3-4-3,Daniel Schlager,12,2,14.5,0,0,0,2023,Mainz 05
+198,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Home,D,1,1,Holstein Kiel,1.8,0.9,58,"32,500",Jonathan Burkardt,3-4-3,Frank Willenborg,13,3,14.5,1,0,0,2023,Mainz 05
+199,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Away,L,0,2,Hoffenheim,1.2,1.7,64,"30,150",Robin Zentner,3-4-3,Sven Jablonski,14,1,15.2,0,0,0,2023,Mainz 05
+200,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Home,D,2,2,Wolfsburg,2.7,1.6,52,"31,500",Robin Zentner,3-4-1-2,Felix Zwayer,18,7,14.7,0,0,0,2023,Mainz 05
+201,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Away,L,0,3,Bayern Munich,0.7,1.1,41,"75,000",Jonathan Burkardt,3-4-3,Bastian Dankert,8,3,18.8,0,0,0,2023,Mainz 05
+202,2025-05-04,19:30 (23:00),Matchweek 32,Sun,Home,D,1,1,Eint Frankfurt,1.4,1.3,64,"33,305",Jonathan Burkardt,3-4-3,Martin Petersen,12,3,13.9,0,0,0,2023,Mainz 05
+203,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Away,W,4,1,Bochum,1.5,0.9,56,"26,000",Jonathan Burkardt,3-4-3,Tobias Stieler,22,7,16.6,2,0,0,2023,Mainz 05
+204,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,D,2,2,Leverkusen,3.1,1.2,48,"33,305",Jonathan Burkardt,3-4-3,Tobias Reichel,19,5,15.5,1,1,1,2023,Mainz 05
+205,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Home,W,1,0,Bochum,1.3,1.0,62,"44,611",Willi Orban,4-2-2-2,Benjamin Brand,13,3,14.7,0,0,0,2023,RB Leipzig
+206,2024-08-31,18:30 (22:00),Matchweek 2,Sat,Away,W,3,2,Leverkusen,1.1,2.2,38,"29,615",Péter Gulácsi,3-4-3,Matthias Jöllenbeck,8,4,18.2,0,0,0,2023,RB Leipzig
+207,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Home,D,0,0,Union Berlin,1.3,0.6,67,"47,800",Péter Gulácsi,3-4-3,Sven Jablonski,14,2,21.5,1,0,1,2023,RB Leipzig
+208,2024-09-22,19:30 (23:00),Matchweek 4,Sun,Away,D,0,0,St. Pauli,0.7,1.4,69,"29,251",Willi Orban,4-4-2,Robert Hartmann,10,5,15.4,0,0,0,2023,RB Leipzig
+209,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Home,W,4,0,Augsburg,3.0,1.1,59,"44,407",Willi Orban,4-4-2,Daniel Siebert,17,6,14,0,0,0,2023,RB Leipzig
+210,2024-10-06,15:30 (19:00),Matchweek 6,Sun,Away,W,1,0,Heidenheim,1.4,1.0,55,"15,000",Willi Orban,4-2-2-2,Sascha Stegemann,13,2,18.6,0,0,0,2023,RB Leipzig
+211,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Away,W,2,0,Mainz 05,1.9,0.6,47,"30,100",Willi Orban,3-4-3,Felix Zwayer,11,5,16.1,0,0,0,2023,RB Leipzig
+212,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Home,W,3,1,Freiburg,1.8,1.7,43,"45,908",Willi Orban,4-2-2-2,Sven Jablonski,12,9,13.4,0,0,0,2023,RB Leipzig
+213,2024-11-02,18:30 (23:00),Matchweek 9,Sat,Away,L,1,2,Dortmund,0.5,2.0,43,"81,365",Willi Orban,4-4-2,Tobias Stieler,7,2,18.8,0,0,0,2023,RB Leipzig
+214,2024-11-09,18:30 (23:00),Matchweek 10,Sat,Home,D,0,0,Gladbach,1.0,0.9,61,"46,887",Willi Orban,3-4-3,Christian Dingert,12,5,16.2,0,0,0,2023,RB Leipzig
+215,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Away,L,3,4,Hoffenheim,1.6,2.0,41,"28,023",Willi Orban,3-4-3,Frank Willenborg,14,6,15.5,1,0,0,2023,RB Leipzig
+216,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Home,L,1,5,Wolfsburg,1.0,2.2,63,"40,000",Willi Orban,4-4-2,Martin Petersen,9,4,18.6,0,0,0,2023,RB Leipzig
+217,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Away,W,2,0,Holstein Kiel,1.6,1.2,44,"14,715",Willi Orban,3-5-2,Florian Badstübner,8,4,16.7,0,1,1,2023,RB Leipzig
+218,2024-12-15,19:30 (00:00),Matchweek 14,Sun,Home,W,2,1,Eint Frankfurt,1.9,0.9,44,"40,193",Willi Orban,5-3-2,Benjamin Brand,19,9,16.2,1,0,0,2023,RB Leipzig
+219,2024-12-20,20:30 (01:00),Matchweek 15,Fri,Away,L,1,5,Bayern Munich,0.4,3.3,29,"75,000",Willi Orban,5-3-2,Daniel Siebert,4,1,11.4,0,0,0,2023,RB Leipzig
+220,2025-01-12,15:30 (20:00),Matchweek 16,Sun,Home,W,4,2,Werder Bremen,2.1,1.5,49,"47,187",Willi Orban,3-4-3,Tobias Reichel,18,7,16.6,0,0,0,2023,RB Leipzig
+221,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Away,L,1,2,Stuttgart,1.0,2.5,42,"57,500",Willi Orban,3-4-3,Sascha Stegemann,6,3,19.9,0,0,0,2023,RB Leipzig
+222,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Away,D,3,3,Bochum,2.2,2.7,55,"24,158",Willi Orban,3-4-3,Robert Hartmann,11,3,13.5,0,0,0,2023,RB Leipzig
+223,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Home,D,2,2,Leverkusen,0.7,2.4,65,"46,793",Willi Orban,4-4-2,Bastian Dankert,7,3,14.7,1,0,0,2023,RB Leipzig
+224,2025-02-01,18:30 (23:00),Matchweek 20,Sat,Away,D,0,0,Union Berlin,0.3,1.3,53,"22,012",Willi Orban,3-4-1-2,Daniel Schlager,6,2,20.8,0,0,0,2023,RB Leipzig
+225,2025-02-09,17:30 (22:00),Matchweek 21,Sun,Home,W,2,0,St. Pauli,1.5,0.6,56,"46,021",Willi Orban,3-4-3,Florian Badstübner,11,5,12,0,0,0,2023,RB Leipzig
+226,2025-02-14,20:30 (01:00),Matchweek 22,Fri,Away,D,0,0,Augsburg,1.2,1.0,61,"28,260",Kevin Kampl,3-4-3,Sascha Stegemann,14,4,17.5,0,0,0,2023,RB Leipzig
+227,2025-02-23,15:30 (20:00),Matchweek 23,Sun,Home,D,2,2,Heidenheim,1.9,0.8,74,"36,619",Willi Orban,4-2-2-2,Martin Petersen,16,5,18.1,0,1,1,2023,RB Leipzig
+228,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Home,L,1,2,Mainz 05,1.4,1.5,49,"41,406",Willi Orban,3-4-1-2,Daniel Siebert,13,3,14.9,0,0,0,2023,RB Leipzig
+229,2025-03-08,18:30 (23:00),Matchweek 25,Sat,Away,D,0,0,Freiburg,1.5,0.5,47,"32,900",Willi Orban,4-4-2,Sven Jablonski,18,3,14.4,1,0,0,2023,RB Leipzig
+230,2025-03-15,18:30 (23:00),Matchweek 26,Sat,Home,W,2,0,Dortmund,1.8,3.0,34,"47,800",Willi Orban,3-4-3,Matthias Jöllenbeck,15,5,17,0,0,0,2023,RB Leipzig
+231,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Away,L,0,1,Gladbach,1.3,1.8,60,"52,358",Willi Orban,3-5-2,Tobias Stieler,19,3,17,1,0,0,2023,RB Leipzig
+232,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Home,W,3,1,Hoffenheim,1.6,0.9,66,"44,478",Willi Orban,4-2-2-2,Robert Hartmann,16,5,18,1,0,0,2023,RB Leipzig
+233,2025-04-11,20:30 (00:00),Matchweek 29,Fri,Away,W,3,2,Wolfsburg,1.3,1.6,53,"23,070",Péter Gulácsi,4-2-2-2,Florian Exner,16,5,19.2,0,0,0,2023,RB Leipzig
+234,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Home,D,1,1,Holstein Kiel,1.9,0.8,61,"45,940",Péter Gulácsi,4-4-2,Felix Brych,9,3,15,0,1,1,2023,RB Leipzig
+235,2025-04-26,18:30 (22:00),Matchweek 31,Sat,Away,L,0,4,Eint Frankfurt,0.4,2.1,54,"56,500",Xavi Simons,3-5-1-1,Matthias Jöllenbeck,7,3,21.9,1,0,0,2023,RB Leipzig
+236,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Home,D,3,3,Bayern Munich,1.2,1.6,38,"47,800",Kevin Kampl,4-4-2,Felix Zwayer,8,6,19.3,1,0,0,2023,RB Leipzig
+237,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Away,D,0,0,Werder Bremen,1.7,2.0,45,"41,000",Péter Gulácsi,4-4-2,Bastian Dankert,16,4,19.3,1,0,0,2023,RB Leipzig
+238,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,2,3,Stuttgart,1.1,2.6,49,"47,800",Péter Gulácsi,4-2-2-2,Daniel Siebert,8,5,15,1,0,0,2023,RB Leipzig
+239,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Away,D,2,2,Augsburg,1.4,1.0,54,"30,660",Marco Friedl,3-5-2,Sascha Stegemann,11,5,13,0,0,0,2023,Werder Bremen
+240,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Home,D,0,0,Dortmund,0.3,0.6,47,"42,100",Marco Friedl,3-4-3,Robert Hartmann,5,1,19.8,1,0,0,2023,Werder Bremen
+241,2024-09-15,17:30 (21:00),Matchweek 3,Sun,Away,W,2,1,Mainz 05,1.6,1.1,42,"32,000",Marco Friedl,3-4-3,Benjamin Brand,13,3,16.1,0,1,1,2023,Werder Bremen
+242,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Home,L,0,5,Bayern Munich,0.0,3.0,31,"42,100",Niklas Stark,3-5-2,Bastian Dankert,0,0,,0,0,0,2023,Werder Bremen
+243,2024-09-29,17:30 (21:00),Matchweek 5,Sun,Away,W,4,3,Hoffenheim,2.9,1.2,64,"26,018",Niklas Stark,3-4-3,Tobias Reichel,23,10,14.2,1,0,0,2023,Werder Bremen
+244,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Home,L,0,1,Freiburg,1.0,1.0,58,"41,200",Marco Friedl,3-4-3,Tobias Welz,12,3,19.6,1,0,0,2023,Werder Bremen
+245,2024-10-20,17:30 (21:00),Matchweek 7,Sun,Away,W,4,2,Wolfsburg,2.0,1.8,57,"28,917",Marco Friedl,3-4-3,Daniel Schlager,15,7,16.8,1,0,0,2023,Werder Bremen
+246,2024-10-26,18:30 (22:00),Matchweek 8,Sat,Home,D,2,2,Leverkusen,1.6,1.3,43,"42,100",Marco Friedl,3-4-3,Florian Badstübner,13,8,16.6,0,0,0,2023,Werder Bremen
+247,2024-11-03,17:30 (22:00),Matchweek 9,Sun,Away,L,1,4,Gladbach,1.4,2.5,53,"54,042",Marco Friedl,3-4-3,Bastian Dankert,15,5,15.2,0,0,0,2023,Werder Bremen
+248,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Home,W,2,1,Holstein Kiel,1.7,0.7,60,"42,100",Marco Friedl,3-4-3,Sören Storks,16,5,15.2,1,0,0,2023,Werder Bremen
+249,2024-11-23,18:30 (23:00),Matchweek 11,Sat,Away,L,0,1,Eint Frankfurt,0.4,1.1,50,"58,000",Marco Friedl,3-4-3,Florian Badstübner,8,1,20.3,0,0,0,2023,Werder Bremen
+250,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Home,D,2,2,Stuttgart,1.6,1.8,43,"42,100",Marco Friedl,4-4-2,Harm Osmers,20,6,15.4,0,0,0,2023,Werder Bremen
+251,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Away,W,1,0,Bochum,0.8,1.2,48,"26,000",Marco Friedl,4-4-2,Felix Brych,9,1,16.3,0,0,0,2023,Werder Bremen
+252,2024-12-14,18:30 (23:00),Matchweek 14,Sat,Away,W,2,0,St. Pauli,1.0,0.6,44,"29,546",Marco Friedl,3-5-2,Robert Hartmann,8,4,17.5,0,0,0,2023,Werder Bremen
+253,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Home,W,4,1,Union Berlin,2.3,1.3,54,"42,100",Marco Friedl,3-5-2,Florian Exner,10,5,11.9,0,0,0,2023,Werder Bremen
+254,2025-01-12,15:30 (20:00),Matchweek 16,Sun,Away,L,2,4,RB Leipzig,1.5,2.1,51,"47,187",Marco Friedl,5-4-1,Tobias Reichel,7,2,15.2,0,0,0,2023,Werder Bremen
+255,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Home,D,3,3,Heidenheim,1.5,1.4,52,"39,350",Niklas Stark,3-1-4-2,Matthias Jöllenbeck,12,5,17.2,1,0,0,2023,Werder Bremen
+256,2025-01-19,17:30 (22:00),Matchweek 18,Sun,Home,L,0,2,Augsburg,1.3,1.2,71,"39,350",Marco Friedl,3-5-2,Benjamin Brand,20,2,14.3,0,0,0,2023,Werder Bremen
+257,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Away,D,2,2,Dortmund,1.3,1.0,54,"81,365",Marco Friedl,3-1-4-2,Christian Dingert,13,4,18.9,1,0,0,2023,Werder Bremen
+258,2025-01-31,20:30 (01:00),Matchweek 20,Fri,Home,W,1,0,Mainz 05,2.5,1.2,38,"40,500",Marco Friedl,3-5-2,Martin Petersen,11,4,13.7,0,0,1,2023,Werder Bremen
+259,2025-02-07,20:30 (01:00),Matchweek 21,Fri,Away,L,0,3,Bayern Munich,0.1,4.1,25,"75,000",Miloš Veljković,5-3-2,Sören Storks,2,0,14.8,0,0,0,2023,Werder Bremen
+260,2025-02-16,15:30 (20:00),Matchweek 22,Sun,Home,L,1,3,Hoffenheim,1.1,1.4,63,"39,400",Niklas Stark,3-5-2,Frank Willenborg,14,2,17.1,1,0,0,2023,Werder Bremen
+261,2025-02-21,20:30 (01:00),Matchweek 23,Fri,Away,L,0,5,Freiburg,1.2,1.8,63,"34,700",Niklas Stark,3-5-2,Max Burda,8,2,20.7,0,0,1,2023,Werder Bremen
+262,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Home,L,1,2,Wolfsburg,1.9,0.9,56,"41,152",Niklas Stark,3-5-2,Felix Brych,15,7,16.8,0,0,0,2023,Werder Bremen
+263,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Away,W,2,0,Leverkusen,1.1,1.6,28,"30,210",Miloš Veljković,3-5-2,Tobias Welz,11,7,16,1,0,0,2023,Werder Bremen
+264,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Home,L,2,4,Gladbach,2.5,2.4,53,"42,100",Miloš Veljković,3-5-2,Timo Gerach,22,1,15.1,1,1,1,2023,Werder Bremen
+265,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Away,W,3,0,Holstein Kiel,1.8,0.5,45,"15,034",Marco Friedl,3-5-2,Sascha Stegemann,14,7,16.8,1,0,0,2023,Werder Bremen
+266,2025-04-05,18:30 (22:00),Matchweek 28,Sat,Home,W,2,0,Eint Frankfurt,1.0,0.5,38,"42,100",Marco Friedl,3-5-2,Daniel Siebert,12,4,17.2,0,0,0,2023,Werder Bremen
+267,2025-04-13,15:30 (19:00),Matchweek 29,Sun,Away,W,2,1,Stuttgart,1.5,1.7,52,"60,000",Marco Friedl,3-5-2,Daniel Schlager,14,5,18,0,0,0,2023,Werder Bremen
+268,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Home,W,1,0,Bochum,1.8,0.7,48,"42,100",Marco Friedl,3-5-2,Robert Schröder,14,4,15.1,1,0,0,2023,Werder Bremen
+269,2025-04-27,17:30 (21:00),Matchweek 31,Sun,Home,D,0,0,St. Pauli,1.1,0.6,51,"42,100",Marco Friedl,3-4-3,Tobias Reichel,11,2,16.5,0,0,0,2023,Werder Bremen
+270,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Away,D,2,2,Union Berlin,1.6,1.5,59,"22,012",Marco Friedl,3-5-2,Sören Storks,13,6,17.6,0,0,0,2023,Werder Bremen
+271,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Home,D,0,0,RB Leipzig,2.0,1.7,55,"41,000",Marco Friedl,3-5-2,Bastian Dankert,21,5,13,0,0,0,2023,Werder Bremen
+272,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,4,1,Heidenheim,2.2,1.6,49,"15,000",Marco Friedl,3-5-2,Tobias Welz,12,5,15.5,0,1,1,2023,Werder Bremen
+273,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Away,L,1,3,Freiburg,0.4,2.1,67,"34,700",Atakan Karazor,4-2-3-1,Tobias Welz,9,2,23.7,1,0,0,2023,Stuttgart
+274,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Home,D,3,3,Mainz 05,3.8,2.3,63,"59,000",Atakan Karazor,4-2-3-1,Timo Gerach,28,11,14.9,2,0,0,2023,Stuttgart
+275,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Away,W,3,1,Gladbach,2.2,1.6,56,"53,756",Atakan Karazor,4-2-2-2,Felix Brych,12,7,14.3,0,0,0,2023,Stuttgart
+276,2024-09-22,17:30 (21:00),Matchweek 4,Sun,Home,W,5,1,Dortmund,3.4,0.7,52,"60,000",Atakan Karazor,4-4-2,Florian Badstübner,17,9,14.8,0,0,0,2023,Stuttgart
+277,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Away,D,2,2,Wolfsburg,1.8,1.1,69,"27,135",Atakan Karazor,4-2-3-1,Sven Jablonski,17,3,18.9,1,0,1,2023,Stuttgart
+278,2024-10-06,19:30 (23:00),Matchweek 6,Sun,Home,D,1,1,Hoffenheim,1.9,0.9,67,"58,000",Atakan Karazor,3-5-2,Harm Osmers,19,5,15.1,0,0,1,2023,Stuttgart
+279,2024-10-19,18:30 (22:00),Matchweek 7,Sat,Away,L,0,4,Bayern Munich,0.5,3.2,35,"75,000",Atakan Karazor,4-2-3-1,Tobias Stieler,4,1,17.7,0,0,0,2023,Stuttgart
+280,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Home,W,2,1,Holstein Kiel,1.6,0.5,58,"59,000",Deniz Undav,4-4-2,Robert Hartmann,16,6,17.8,0,0,0,2023,Stuttgart
+281,2024-11-01,20:30 (01:00),Matchweek 9,Fri,Away,D,0,0,Leverkusen,0.3,2.2,47,"30,210",Atakan Karazor,4-4-2,Daniel Siebert,4,1,20.5,0,0,0,2023,Stuttgart
+282,2024-11-10,17:30 (22:00),Matchweek 10,Sun,Home,L,2,3,Eint Frankfurt,2.5,1.3,60,"60,000",Atakan Karazor,4-2-3-1,Felix Zwayer,21,9,16.6,0,0,1,2023,Stuttgart
+283,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Home,W,2,0,Bochum,1.7,0.7,58,"59,000",Atakan Karazor,4-4-2,Benjamin Brand,15,4,15.7,0,0,0,2023,Stuttgart
+284,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Away,D,2,2,Werder Bremen,1.8,1.6,57,"42,100",Atakan Karazor,4-2-3-1,Harm Osmers,10,4,17.7,0,0,0,2023,Stuttgart
+285,2024-12-06,20:30 (01:00),Matchweek 13,Fri,Home,W,3,2,Union Berlin,2.1,1.4,64,"59,000",Atakan Karazor,4-2-3-1,Tobias Welz,7,5,17.7,0,0,0,2023,Stuttgart
+286,2024-12-15,15:30 (20:00),Matchweek 14,Sun,Away,W,3,1,Heidenheim,2.3,1.0,66,"15,000",Atakan Karazor,3-4-3,Christian Dingert,17,6,18.1,2,1,1,2023,Stuttgart
+287,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Home,L,0,1,St. Pauli,2.1,2.2,72,"60,000",Angelo Stiller,3-4-3,Felix Brych,25,5,14.2,0,0,0,2023,Stuttgart
+288,2025-01-12,17:30 (22:00),Matchweek 16,Sun,Away,W,1,0,Augsburg,2.4,0.3,57,"30,660",Atakan Karazor,4-4-2,Daniel Schlager,13,5,12.8,1,0,0,2023,Stuttgart
+289,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Home,W,2,1,RB Leipzig,2.5,1.0,58,"57,500",Atakan Karazor,4-4-2,Sascha Stegemann,14,6,16.3,0,0,0,2023,Stuttgart
+290,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Home,W,4,0,Freiburg,1.9,0.2,56,"60,000",Atakan Karazor,4-4-2,Felix Zwayer,11,6,16.2,0,1,1,2023,Stuttgart
+291,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Away,L,0,2,Mainz 05,1.1,1.9,56,"33,000",Atakan Karazor,4-2-2-2,Tobias Stieler,10,4,15.7,0,0,0,2023,Stuttgart
+292,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Home,L,1,2,Gladbach,1.2,2.1,54,"60,000",Angelo Stiller,4-4-2,Robert Hartmann,10,3,12.1,0,0,0,2023,Stuttgart
+293,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Away,W,2,1,Dortmund,0.3,1.4,32,"81,365",Atakan Karazor,3-4-3,Daniel Siebert,4,2,15.3,0,0,0,2023,Stuttgart
+294,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Home,L,1,2,Wolfsburg,0.8,1.6,57,"58,000",Atakan Karazor,4-2-3-1,Tobias Welz,10,4,13.1,0,0,0,2023,Stuttgart
+295,2025-02-23,19:30 (00:00),Matchweek 23,Sun,Away,D,1,1,Hoffenheim,2.1,1.0,55,"30,150",Atakan Karazor,4-2-2-2,Christian Dingert,14,7,13.5,0,0,0,2023,Stuttgart
+296,2025-02-28,20:30 (01:00),Matchweek 24,Fri,Home,L,1,3,Bayern Munich,0.9,2.2,53,"60,000",Atakan Karazor,4-2-2-2,Benjamin Brand,12,3,16,0,0,0,2023,Stuttgart
+297,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Away,D,2,2,Holstein Kiel,0.8,1.4,48,"15,034",Atakan Karazor,4-4-2,Bastian Dankert,6,2,12.4,0,0,0,2023,Stuttgart
+298,2025-03-16,19:30 (00:00),Matchweek 26,Sun,Home,L,3,4,Leverkusen,2.3,1.7,43,"59,000",Atakan Karazor,4-4-2,Daniel Siebert,11,6,11.9,0,0,0,2023,Stuttgart
+299,2025-03-29,18:30 (23:00),Matchweek 27,Sat,Away,L,0,1,Eint Frankfurt,1.2,3.7,54,"58,000",Atakan Karazor,4-2-3-1,Deniz Aytekin,8,2,13.9,0,0,0,2023,Stuttgart
+300,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Away,W,4,0,Bochum,2.8,0.8,46,"26,000",Atakan Karazor,4-4-2,Felix Brych,14,6,15.4,0,0,0,2023,Stuttgart
+301,2025-04-13,15:30 (19:00),Matchweek 29,Sun,Home,L,1,2,Werder Bremen,1.7,1.5,48,"60,000",Atakan Karazor,4-2-3-1,Daniel Schlager,12,4,17,0,0,0,2023,Stuttgart
+302,2025-04-19,18:30 (22:00),Matchweek 30,Sat,Away,D,4,4,Union Berlin,0.9,1.3,77,"22,012",Atakan Karazor,4-2-3-1,Tobias Stieler,12,6,18.7,1,0,0,2023,Stuttgart
+303,2025-04-25,20:30 (00:00),Matchweek 31,Fri,Home,L,0,1,Heidenheim,1.8,0.3,69,"60,000",Atakan Karazor,4-2-3-1,Tobias Welz,19,3,18.9,1,0,0,2023,Stuttgart
+304,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Away,W,1,0,St. Pauli,2.7,0.4,70,"29,546",Atakan Karazor,4-2-3-1,Florian Exner,20,7,16.5,0,0,1,2023,Stuttgart
+305,2025-05-11,19:30 (23:00),Matchweek 33,Sun,Home,W,4,0,Augsburg,3.9,0.5,70,"59,000",Atakan Karazor,4-2-3-1,Timo Gerach,29,11,13.8,0,0,0,2023,Stuttgart
+306,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,3,2,RB Leipzig,2.6,1.1,51,"47,800",Atakan Karazor,3-4-3,Daniel Siebert,15,7,10.9,0,0,0,2023,Stuttgart
+307,2024-08-23,20:30 (00:00),Matchweek 1,Fri,Home,L,2,3,Leverkusen,1.6,2.7,43,"54,042",Jonas Omlin,4-2-3-1,Robert Schröder,14,7,15.3,0,0,0,2023,Monchengladbach
+308,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Away,W,2,0,Bochum,2.9,0.7,61,"26,000",Jonas Omlin,4-2-3-1,Sören Storks,15,5,14.8,0,0,0,2023,Monchengladbach
+309,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Home,L,1,3,Stuttgart,1.6,2.2,44,"53,756",Jonas Omlin,4-2-3-1,Felix Brych,15,7,15.5,0,0,0,2023,Monchengladbach
+310,2024-09-21,18:30 (22:00),Matchweek 4,Sat,Away,L,0,2,Eint Frankfurt,1.7,2.7,63,"58,000",Julian Weigl,4-2-3-1,Tobias Welz,25,7,17.6,1,0,0,2023,Monchengladbach
+311,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Home,W,1,0,Union Berlin,0.9,0.7,62,"53,056",Julian Weigl,4-2-3-1,Daniel Schlager,8,2,14.6,0,0,0,2023,Monchengladbach
+312,2024-10-04,20:30 (00:00),Matchweek 6,Fri,Away,L,1,2,Augsburg,0.5,1.3,65,"30,660",Julian Weigl,4-2-3-1,Florian Badstübner,11,4,15.1,0,0,0,2023,Monchengladbach
+313,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Home,W,3,2,Heidenheim,3.6,2.0,66,"50,000",Julian Weigl,4-2-3-1,Daniel Siebert,19,9,16,0,1,1,2023,Monchengladbach
+314,2024-10-25,20:30 (00:00),Matchweek 8,Fri,Away,D,1,1,Mainz 05,0.7,1.7,48,"33,000",Julian Weigl,4-2-3-1,Martin Petersen,9,5,18.3,1,0,0,2023,Monchengladbach
+315,2024-11-03,17:30 (22:00),Matchweek 9,Sun,Home,W,4,1,Werder Bremen,2.5,1.4,47,"54,042",Julian Weigl,4-2-3-1,Bastian Dankert,16,7,14.5,0,0,0,2023,Monchengladbach
+316,2024-11-09,18:30 (23:00),Matchweek 10,Sat,Away,D,0,0,RB Leipzig,0.9,1.0,39,"46,887",Julian Weigl,4-2-3-1,Christian Dingert,14,4,19.2,0,0,0,2023,Monchengladbach
+317,2024-11-24,17:30 (22:00),Matchweek 11,Sun,Home,W,2,0,St. Pauli,2.3,1.1,48,"54,042",Julian Weigl,4-2-3-1,Robin Braun,15,3,14.6,0,0,0,2023,Monchengladbach
+318,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Away,L,1,3,Freiburg,1.5,1.6,52,"34,700",Julian Weigl,4-2-3-1,Robert Hartmann,15,3,17.1,0,0,0,2023,Monchengladbach
+319,2024-12-07,18:30 (23:00),Matchweek 13,Sat,Home,D,1,1,Dortmund,1.1,1.5,40,"54,042",Julian Weigl,4-2-3-1,Tobias Stieler,8,2,22.2,1,1,1,2023,Monchengladbach
+320,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Home,W,4,1,Holstein Kiel,2.4,0.6,56,"52,210",Tim Kleindienst,4-2-3-1,Daniel Schlager,17,6,13.4,0,0,0,2023,Monchengladbach
+321,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Away,W,2,1,Hoffenheim,0.7,3.5,35,"28,923",Julian Weigl,4-2-3-1,Bastian Dankert,5,3,11.5,0,0,0,2023,Monchengladbach
+322,2025-01-11,18:30 (23:00),Matchweek 16,Sat,Home,L,0,1,Bayern Munich,0.4,4.3,33,"54,042",Julian Weigl,4-2-3-1,Felix Zwayer,5,0,15.3,0,0,0,2023,Monchengladbach
+323,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Away,L,1,5,Wolfsburg,1.1,3.9,65,"20,519",Julian Weigl,4-2-3-1,Florian Badstübner,9,5,21.6,1,0,0,2023,Monchengladbach
+324,2025-01-18,18:30 (23:00),Matchweek 18,Sat,Away,L,1,3,Leverkusen,0.6,2.1,45,"30,210",Julian Weigl,4-5-1,Harm Osmers,7,4,17.7,0,0,0,2023,Monchengladbach
+325,2025-01-25,18:30 (23:00),Matchweek 19,Sat,Home,W,3,0,Bochum,2.3,0.5,57,"54,042",Julian Weigl,4-2-3-1,Matthias Jöllenbeck,15,5,16.9,0,0,1,2023,Monchengladbach
+326,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Away,W,2,1,Stuttgart,2.1,1.2,46,"60,000",Julian Weigl,4-2-3-1,Robert Hartmann,13,6,17.9,0,0,0,2023,Monchengladbach
+327,2025-02-08,18:30 (23:00),Matchweek 21,Sat,Home,D,1,1,Eint Frankfurt,0.4,2.2,53,"54,042",Julian Weigl,4-2-3-1,Christian Dingert,8,3,19.2,0,0,0,2023,Monchengladbach
+328,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Away,W,2,1,Union Berlin,2.1,2.0,48,"22,012",Julian Weigl,4-2-3-1,Sven Jablonski,9,5,12.8,0,0,0,2023,Monchengladbach
+329,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Home,L,0,3,Augsburg,1.0,1.5,49,"51,493",Jonas Omlin,4-2-3-1,Florian Exner,8,4,11.6,0,0,0,2023,Monchengladbach
+330,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Away,W,3,0,Heidenheim,1.8,1.6,55,"15,000",Julian Weigl,4-2-3-1,Sören Storks,13,5,17.8,0,0,0,2023,Monchengladbach
+331,2025-03-07,20:30 (01:00),Matchweek 25,Fri,Home,L,1,3,Mainz 05,1.4,1.5,57,"51,749",Jonas Omlin,4-2-3-1,Sascha Stegemann,12,4,17,0,0,0,2023,Monchengladbach
+332,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Away,W,4,2,Werder Bremen,2.4,2.5,47,"42,100",Jonas Omlin,4-2-3-1,Timo Gerach,12,6,18,0,1,1,2023,Monchengladbach
+333,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Home,W,1,0,RB Leipzig,1.8,1.3,40,"52,358",Julian Weigl,4-2-3-1,Tobias Stieler,16,3,15,1,0,0,2023,Monchengladbach
+334,2025-04-06,15:30 (19:00),Matchweek 28,Sun,Away,D,1,1,St. Pauli,0.6,1.9,37,"29,546",Julian Weigl,4-2-3-1,Christian Dingert,5,3,17.3,0,0,0,2023,Monchengladbach
+335,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Home,L,1,2,Freiburg,0.7,1.6,42,"53,981",Julian Weigl,4-2-3-1,Deniz Aytekin,10,1,17,0,0,0,2023,Monchengladbach
+336,2025-04-20,17:30 (21:00),Matchweek 30,Sun,Away,L,2,3,Dortmund,1.4,1.4,41,"81,365",Jonas Omlin,4-2-3-1,Daniel Siebert,5,2,22.3,0,1,1,2023,Monchengladbach
+337,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Away,L,3,4,Holstein Kiel,1.6,3.5,62,"15,034",Jonas Omlin,4-2-3-1,Robert Hartmann,16,7,12.5,0,0,0,2023,Monchengladbach
+338,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Home,D,4,4,Hoffenheim,1.4,1.8,44,"52,000",Jonas Omlin,4-2-3-1,Frank Willenborg,12,7,16.7,0,0,0,2023,Monchengladbach
+339,2025-05-10,18:30 (22:00),Matchweek 33,Sat,Away,L,0,2,Bayern Munich,1.6,2.5,38,"75,000",Jonas Omlin,4-1-4-1,Sven Jablonski,16,6,15.6,0,0,0,2023,Monchengladbach
+340,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,0,1,Wolfsburg,1.0,1.7,59,"53,048",Jonas Omlin,4-3-3,Sascha Stegemann,16,3,19.1,0,0,0,2023,Monchengladbach
+341,2024-08-25,15:30 (19:00),Matchweek 1,Sun,Home,L,2,3,Bayern Munich,1.9,2.4,30,"30,000",Maximilian Arnold,4-2-3-1,Daniel Siebert,9,1,19.7,0,1,1,2023,Wolfsburg
+342,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Away,W,2,0,Holstein Kiel,1.3,1.1,46,"15,034",Maximilian Arnold,4-2-3-1,Florian Exner,13,4,18.3,1,0,0,2023,Wolfsburg
+343,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Home,L,1,2,Eint Frankfurt,1.5,2.5,60,"26,281",Maximilian Arnold,4-1-4-1,Harm Osmers,18,4,17.9,0,0,0,2023,Wolfsburg
+344,2024-09-22,15:30 (19:00),Matchweek 4,Sun,Away,L,3,4,Leverkusen,0.7,1.9,22,"29,250",Maximilian Arnold,4-1-4-1,Sascha Stegemann,9,4,22.1,0,0,0,2023,Wolfsburg
+345,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Home,D,2,2,Stuttgart,1.1,1.8,31,"27,135",Maximilian Arnold,4-4-2,Sven Jablonski,5,2,14.3,0,0,0,2023,Wolfsburg
+346,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Away,W,3,1,Bochum,2.4,1.7,42,"24,630",Maximilian Arnold,3-4-1-2,Max Burda,16,4,18.2,0,0,1,2023,Wolfsburg
+347,2024-10-20,17:30 (21:00),Matchweek 7,Sun,Home,L,2,4,Werder Bremen,1.8,2.0,43,"28,917",Maximilian Arnold,3-4-1-2,Daniel Schlager,14,5,16.3,0,0,0,2023,Wolfsburg
+348,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Away,D,0,0,St. Pauli,1.1,0.8,46,"29,546",Kamil Grabara,4-2-3-1,Tobias Reichel,9,4,17.1,0,0,0,2023,Wolfsburg
+349,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Home,D,1,1,Augsburg,1.2,0.5,69,"22,654",Maximilian Arnold,4-2-3-1,Felix Brych,18,5,17.7,1,0,0,2023,Wolfsburg
+350,2024-11-10,19:30 (00:00),Matchweek 10,Sun,Away,W,3,1,Heidenheim,1.5,2.4,35,"15,000",Maximilian Arnold,4-5-1,Harm Osmers,13,6,14.1,1,0,0,2023,Wolfsburg
+351,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Home,W,1,0,Union Berlin,0.6,0.5,55,"23,861",Maximilian Arnold,4-2-3-1,Tobias Stieler,10,5,18.9,1,0,0,2023,Wolfsburg
+352,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Away,W,5,1,RB Leipzig,2.2,1.0,37,"40,000",Maximilian Arnold,4-3-3,Martin Petersen,13,8,16.3,1,0,0,2023,Wolfsburg
+353,2024-12-08,15:30 (20:00),Matchweek 13,Sun,Home,W,4,3,Mainz 05,1.2,2.6,44,"20,036",Maximilian Arnold,4-4-2,Timo Gerach,10,5,19.9,1,0,0,2023,Wolfsburg
+354,2024-12-13,20:30 (01:00),Matchweek 14,Fri,Away,L,2,3,Freiburg,1.8,2.1,47,"32,600",Maximilian Arnold,4-4-2,Sascha Stegemann,20,5,18.5,0,0,0,2023,Wolfsburg
+355,2024-12-22,17:30 (22:00),Matchweek 15,Sun,Home,L,1,3,Dortmund,1.5,2.7,50,"28,917",Maximilian Arnold,3-5-2,Matthias Jöllenbeck,14,5,15.8,1,0,0,2023,Wolfsburg
+356,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Away,W,1,0,Hoffenheim,0.7,0.9,45,"18,114",Maximilian Arnold,4-3-3,Christian Dingert,12,3,17.2,0,0,0,2023,Wolfsburg
+357,2025-01-14,20:30 (01:00),Matchweek 17,Tue,Home,W,5,1,Gladbach,3.9,1.1,35,"20,519",Maximilian Arnold,4-4-2,Florian Badstübner,15,4,17.7,1,1,1,2023,Wolfsburg
+358,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Away,L,2,3,Bayern Munich,0.5,3.0,29,"75,000",Maximilian Arnold,4-1-3-2,Tobias Reichel,7,3,17.3,0,0,0,2023,Wolfsburg
+359,2025-01-24,20:30 (01:00),Matchweek 19,Fri,Home,D,2,2,Holstein Kiel,2.0,0.2,69,"22,103",Maximilian Arnold,4-1-2-1-2,Sven Jablonski,22,5,14.7,0,0,0,2023,Wolfsburg
+360,2025-02-02,15:30 (20:00),Matchweek 20,Sun,Away,D,1,1,Eint Frankfurt,1.2,1.2,39,"56,900",Maximilian Arnold,4-1-3-2,Benjamin Brand,11,2,18.9,0,0,0,2023,Wolfsburg
+361,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Home,D,0,0,Leverkusen,0.7,1.4,41,"28,198",Maximilian Arnold,4-1-3-2,Sascha Stegemann,13,8,20.4,1,0,0,2023,Wolfsburg
+362,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Away,W,2,1,Stuttgart,1.6,0.8,43,"58,000",Mattias Svanberg,4-4-2,Tobias Welz,6,2,19.2,0,1,1,2023,Wolfsburg
+363,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Home,D,1,1,Bochum,1.6,0.8,54,"23,772",Mattias Svanberg,4-4-2,Timo Gerach,13,6,14.7,0,0,0,2023,Wolfsburg
+364,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Away,W,2,1,Werder Bremen,0.9,1.9,44,"41,152",Mattias Svanberg,4-3-3,Felix Brych,9,3,17.3,0,0,0,2023,Wolfsburg
+365,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Home,D,1,1,St. Pauli,2.0,1.5,57,"28,917",Mattias Svanberg,4-2-3-1,Robert Hartmann,15,3,15.6,0,1,1,2023,Wolfsburg
+366,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Away,L,0,1,Augsburg,0.8,0.7,58,"28,351",Maximilian Arnold,4-3-3,Martin Petersen,13,2,20.5,1,0,0,2023,Wolfsburg
+367,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Home,L,0,1,Heidenheim,1.3,1.3,61,"21,545",Maximilian Arnold,4-3-3,Bastian Dankert,11,2,17.5,1,0,0,2023,Wolfsburg
+368,2025-04-06,17:30 (21:00),Matchweek 28,Sun,Away,L,0,1,Union Berlin,1.9,1.2,54,"22,012",Maximilian Arnold,3-4-1-2,Harm Osmers,12,3,13.2,0,0,0,2023,Wolfsburg
+369,2025-04-11,20:30 (00:00),Matchweek 29,Fri,Home,L,2,3,RB Leipzig,1.6,1.3,47,"23,070",Maximilian Arnold,3-4-1-2,Florian Exner,17,6,12.6,0,0,0,2023,Wolfsburg
+370,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Away,D,2,2,Mainz 05,1.6,2.7,48,"31,500",Maximilian Arnold,3-5-2,Felix Zwayer,16,4,17.4,1,0,0,2023,Wolfsburg
+371,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Home,L,0,1,Freiburg,0.3,1.6,44,"23,145",Maximilian Arnold,3-5-2,Sven Jablonski,7,1,21.2,1,0,0,2023,Wolfsburg
+372,2025-05-03,18:30 (22:00),Matchweek 32,Sat,Away,L,0,4,Dortmund,0.7,2.4,46,"81,365",Kamil Grabara,3-5-2,Felix Brych,11,2,15.7,0,0,0,2023,Wolfsburg
+373,2025-05-09,20:30 (00:00),Matchweek 33,Fri,Home,D,2,2,Hoffenheim,1.0,1.4,54,"20,145",Kamil Grabara,4-1-4-1,Matthias Jöllenbeck,14,5,16.8,0,0,0,2023,Wolfsburg
+374,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,1,0,Gladbach,1.7,1.0,41,"53,048",Maximilian Arnold,4-3-3,Sascha Stegemann,17,6,20.2,0,0,0,2023,Wolfsburg
+375,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Home,D,2,2,Werder Bremen,1.0,1.4,46,"30,660",Jeffrey Gouweleeuw,4-1-2-1-2,Sascha Stegemann,11,3,15.9,0,0,0,2023,Augsburg
+376,2024-09-01,15:30 (19:00),Matchweek 2,Sun,Away,L,0,4,Heidenheim,0.7,3.1,64,"15,000",Jeffrey Gouweleeuw,4-1-2-1-2,Martin Petersen,15,0,19.6,2,0,0,2023,Augsburg
+377,2024-09-15,15:30 (19:00),Matchweek 3,Sun,Home,W,3,1,St. Pauli,2.7,0.5,44,"30,660",Jeffrey Gouweleeuw,3-4-3,Felix Zwayer,18,8,15,0,0,0,2023,Augsburg
+378,2024-09-20,20:30 (00:00),Matchweek 4,Fri,Home,L,2,3,Mainz 05,2.4,1.0,73,"28,913",Jeffrey Gouweleeuw,3-4-3,Sören Storks,29,7,15.5,0,0,0,2023,Augsburg
+379,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Away,L,0,4,RB Leipzig,1.1,3.0,41,"44,407",Jeffrey Gouweleeuw,3-4-3,Daniel Siebert,6,0,17.2,0,0,1,2023,Augsburg
+380,2024-10-04,20:30 (00:00),Matchweek 6,Fri,Home,W,2,1,Gladbach,1.3,0.5,35,"30,660",Jeffrey Gouweleeuw,3-5-2,Florian Badstübner,15,5,16,0,0,0,2023,Augsburg
+381,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Away,L,1,3,Freiburg,0.6,0.8,43,"33,500",Jeffrey Gouweleeuw,3-5-2,Bastian Dankert,9,3,20.7,0,0,0,2023,Augsburg
+382,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Home,W,2,1,Dortmund,0.6,1.0,25,"30,660",Jeffrey Gouweleeuw,5-3-2,Tobias Welz,12,4,22.4,1,0,0,2023,Augsburg
+383,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Away,D,1,1,Wolfsburg,0.5,1.2,31,"22,654",Jeffrey Gouweleeuw,3-5-2,Felix Brych,3,1,17.8,0,0,0,2023,Augsburg
+384,2024-11-10,15:30 (20:00),Matchweek 10,Sun,Home,D,0,0,Hoffenheim,0.9,0.5,44,"28,300",Jeffrey Gouweleeuw,3-5-2,Martin Petersen,16,4,20.4,1,0,0,2023,Augsburg
+385,2024-11-22,20:30 (01:00),Matchweek 11,Fri,Away,L,0,3,Bayern Munich,0.1,3.7,20,"75,000",Jeffrey Gouweleeuw,3-5-2,Daniel Schlager,2,1,10.2,0,0,0,2023,Augsburg
+386,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Home,W,1,0,Bochum,1.9,0.3,52,"29,556",Jeffrey Gouweleeuw,3-5-2,Tobias Reichel,15,3,17.3,0,1,1,2023,Augsburg
+387,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Away,D,2,2,Eint Frankfurt,0.6,1.7,34,"57,000",Jeffrey Gouweleeuw,3-5-2,Bastian Dankert,8,3,16.8,0,0,0,2023,Augsburg
+388,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Home,L,0,2,Leverkusen,0.6,0.8,35,"29,310",Jeffrey Gouweleeuw,3-1-4-2,Felix Zwayer,8,4,16.1,0,0,0,2023,Augsburg
+389,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Away,L,1,5,Holstein Kiel,1.5,1.7,63,"14,830",Kristijan Jakić,3-5-2,Tobias Welz,17,4,14.7,1,0,0,2023,Augsburg
+390,2025-01-12,17:30 (22:00),Matchweek 16,Sun,Home,L,0,1,Stuttgart,0.3,2.4,43,"30,660",Jeffrey Gouweleeuw,3-4-3,Daniel Schlager,8,2,21,0,0,0,2023,Augsburg
+391,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Away,W,2,0,Union Berlin,1.2,0.8,45,"21,560",Jeffrey Gouweleeuw,3-4-3,Frank Willenborg,11,5,16,0,0,0,2023,Augsburg
+392,2025-01-19,17:30 (22:00),Matchweek 18,Sun,Away,W,2,0,Werder Bremen,1.2,1.3,29,"39,350",Jeffrey Gouweleeuw,3-4-3,Benjamin Brand,9,4,16.2,0,0,0,2023,Augsburg
+393,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Home,W,2,1,Heidenheim,1.1,1.2,60,"30,660",Jeffrey Gouweleeuw,3-4-3,Florian Badstübner,11,7,14.7,0,0,0,2023,Augsburg
+394,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Away,D,1,1,St. Pauli,0.3,0.8,55,"29,546",Jeffrey Gouweleeuw,3-4-3,Tobias Reichel,2,1,11.1,0,0,0,2023,Augsburg
+395,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Away,D,0,0,Mainz 05,0.3,1.3,34,"33,000",Jeffrey Gouweleeuw,3-4-3,Daniel Schlager,9,2,21.8,0,0,0,2023,Augsburg
+396,2025-02-14,20:30 (01:00),Matchweek 22,Fri,Home,D,0,0,RB Leipzig,1.0,1.2,39,"28,260",Jeffrey Gouweleeuw,3-4-3,Sascha Stegemann,11,2,16.3,0,0,0,2023,Augsburg
+397,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Away,W,3,0,Gladbach,1.5,1.0,51,"51,493",Jeffrey Gouweleeuw,3-4-3,Florian Exner,17,4,19.9,2,0,0,2023,Augsburg
+398,2025-03-02,17:30 (22:00),Matchweek 24,Sun,Home,D,0,0,Freiburg,1.5,0.8,51,"29,651",Jeffrey Gouweleeuw,3-4-3,Harm Osmers,13,5,16.9,1,0,0,2023,Augsburg
+399,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Away,W,1,0,Dortmund,0.2,1.2,29,"81,365",Jeffrey Gouweleeuw,3-4-3,Deniz Aytekin,6,1,12.2,0,0,0,2023,Augsburg
+400,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Home,W,1,0,Wolfsburg,0.7,0.8,42,"28,351",Jeffrey Gouweleeuw,3-4-3,Martin Petersen,10,2,19.5,0,0,0,2023,Augsburg
+401,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Away,D,1,1,Hoffenheim,0.6,1.4,44,"21,427",Jeffrey Gouweleeuw,3-4-3,Tobias Reichel,11,4,24.6,0,0,0,2023,Augsburg
+402,2025-04-04,20:30 (00:00),Matchweek 28,Fri,Home,L,1,3,Bayern Munich,0.4,2.4,31,"30,660",Jeffrey Gouweleeuw,3-4-3,Matthias Jöllenbeck,6,3,15.5,0,0,0,2023,Augsburg
+403,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Away,W,2,1,Bochum,1.1,2.8,47,"25,048",Jeffrey Gouweleeuw,3-4-3,Martin Petersen,12,4,19.6,2,0,0,2023,Augsburg
+404,2025-04-20,15:30 (19:00),Matchweek 30,Sun,Home,D,0,0,Eint Frankfurt,0.9,1.1,46,"30,660",Jeffrey Gouweleeuw,3-4-3,Florian Badstübner,13,2,18.1,0,0,0,2023,Augsburg
+405,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Away,L,0,2,Leverkusen,0.7,0.9,47,"29,563",Jeffrey Gouweleeuw,3-4-3,Christian Dingert,11,2,18.9,0,0,0,2023,Augsburg
+406,2025-05-04,15:30 (19:00),Matchweek 32,Sun,Home,L,1,3,Holstein Kiel,3.2,1.7,72,"28,660",Jeffrey Gouweleeuw,3-4-3,Harm Osmers,27,10,15.9,0,0,0,2023,Augsburg
+407,2025-05-11,19:30 (23:00),Matchweek 33,Sun,Away,L,0,4,Stuttgart,0.5,3.9,30,"59,000",Jeffrey Gouweleeuw,3-4-3,Timo Gerach,7,0,16.3,0,0,0,2023,Augsburg
+408,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,1,2,Union Berlin,1.7,0.8,62,"30,660",Jeffrey Gouweleeuw,3-4-3,Felix Brych,19,4,15.9,0,0,0,2023,Augsburg
+409,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Away,D,1,1,Mainz 05,0.6,1.2,47,"31,500",Christopher Trimmel,3-4-3,Harm Osmers,15,5,19.8,0,0,0,2023,Union Berlin
+410,2024-08-30,20:30 (00:00),Matchweek 2,Fri,Home,W,1,0,St. Pauli,1.1,0.5,39,"22,012",Rani Khedira,3-4-3,Bastian Dankert,11,5,21.5,0,0,0,2023,Union Berlin
+411,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Away,D,0,0,RB Leipzig,0.6,1.3,33,"47,800",Rani Khedira,3-4-3,Sven Jablonski,10,3,12.9,0,0,0,2023,Union Berlin
+412,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Home,W,2,1,Hoffenheim,1.2,0.4,51,"21,831",Rani Khedira,3-4-3,Matthias Jöllenbeck,12,2,18.3,2,0,0,2023,Union Berlin
+413,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Away,L,0,1,Gladbach,0.7,0.9,38,"53,056",Rani Khedira,3-4-3,Daniel Schlager,9,2,19.9,0,0,0,2023,Union Berlin
+414,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Home,W,2,1,Dortmund,1.5,0.7,33,"22,012",Christopher Trimmel,3-4-3,Tobias Reichel,13,4,19.1,0,1,1,2023,Union Berlin
+415,2024-10-20,15:30 (19:00),Matchweek 7,Sun,Away,W,2,0,Holstein Kiel,1.1,1.3,52,"15,034",Christopher Trimmel,3-4-3,Timo Gerach,14,4,14.8,0,0,0,2023,Union Berlin
+416,2024-10-27,17:30 (22:00),Matchweek 8,Sun,Home,D,1,1,Eint Frankfurt,1.4,1.5,48,"22,012",Christopher Trimmel,3-4-3,Harm Osmers,13,4,14.8,0,0,0,2023,Union Berlin
+417,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Away,L,0,3,Bayern Munich,0.5,2.5,23,"75,000",Christopher Trimmel,3-4-3,Matthias Jöllenbeck,8,1,12.7,0,0,0,2023,Union Berlin
+418,2024-11-08,20:30 (01:00),Matchweek 10,Fri,Home,D,0,0,Freiburg,0.7,1.7,41,"22,012",Christopher Trimmel,3-4-3,Tobias Reichel,12,6,20.2,0,0,0,2023,Union Berlin
+419,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Away,L,0,1,Wolfsburg,0.5,0.6,45,"23,861",Christopher Trimmel,3-4-3,Tobias Stieler,11,4,17.3,1,0,0,2023,Union Berlin
+420,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Home,L,1,2,Leverkusen,0.7,0.9,38,"22,012",Christopher Trimmel,3-4-3,Christian Dingert,8,2,15.1,0,0,0,2023,Union Berlin
+421,2024-12-06,20:30 (01:00),Matchweek 13,Fri,Away,L,2,3,Stuttgart,1.4,2.1,36,"59,000",Rani Khedira,3-4-3,Tobias Welz,14,3,15.3,0,0,0,2023,Union Berlin
+422,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Home,L,0,2,Bochum,2.5,1.0,69,"22,012",Rani Khedira,3-4-3,Martin Petersen,22,4,14.5,0,0,0,2023,Union Berlin
+423,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Away,L,1,4,Werder Bremen,1.3,2.3,46,"42,100",Christopher Trimmel,3-4-3,Florian Exner,16,4,17.5,0,0,0,2023,Union Berlin
+424,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Away,L,0,2,Heidenheim,1.1,1.4,42,"15,000",Christopher Trimmel,4-4-2,Robert Hartmann,10,6,16.4,0,0,0,2023,Union Berlin
+425,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Home,L,0,2,Augsburg,0.8,1.2,55,"21,560",Christopher Trimmel,4-5-1,Frank Willenborg,13,2,17.1,0,0,0,2023,Union Berlin
+426,2025-01-19,15:30 (20:00),Matchweek 18,Sun,Home,W,2,1,Mainz 05,2.1,1.7,34,"21,646",Danilho Doekhi,3-4-3,Florian Exner,11,3,18.9,1,1,1,2023,Union Berlin
+427,2025-01-26,17:30 (22:00),Matchweek 19,Sun,Away,L,0,3,St. Pauli,1.1,1.2,56,"29,546",Danilho Doekhi,3-5-2,Sören Storks,14,2,15.2,1,0,0,2023,Union Berlin
+428,2025-02-01,18:30 (23:00),Matchweek 20,Sat,Home,D,0,0,RB Leipzig,1.3,0.3,47,"22,012",Rani Khedira,4-3-3,Daniel Schlager,21,5,21,0,0,0,2023,Union Berlin
+429,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Away,W,4,0,Hoffenheim,2.8,1.1,36,"20,023",Rani Khedira,4-2-3-1,Tobias Stieler,22,7,15.3,0,0,0,2023,Union Berlin
+430,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Home,L,1,2,Gladbach,2.0,2.1,52,"22,012",Rani Khedira,4-2-3-1,Sven Jablonski,17,2,15.6,0,1,1,2023,Union Berlin
+431,2025-02-22,18:30 (23:00),Matchweek 23,Sat,Away,L,0,6,Dortmund,0.3,4.8,36,"81,365",Rani Khedira,4-2-3-1,Bastian Dankert,6,1,10.7,0,0,0,2023,Union Berlin
+432,2025-03-02,15:30 (20:00),Matchweek 24,Sun,Home,L,0,1,Holstein Kiel,1.2,1.0,52,"22,012",Rani Khedira,3-4-3,Tobias Reichel,14,3,10.1,0,0,0,2023,Union Berlin
+433,2025-03-09,15:30 (20:00),Matchweek 25,Sun,Away,W,2,1,Eint Frankfurt,0.9,1.8,34,"58,000",Christopher Trimmel,3-5-2,Frank Willenborg,11,3,13.9,0,0,0,2023,Union Berlin
+434,2025-03-15,15:30 (20:00),Matchweek 26,Sat,Home,D,1,1,Bayern Munich,0.7,1.6,20,"22,012",Christopher Trimmel,5-4-1,Florian Exner,7,3,17.6,0,0,0,2023,Union Berlin
+435,2025-03-30,15:30 (19:00),Matchweek 27,Sun,Away,W,2,1,Freiburg,1.0,1.4,28,"34,300",Christopher Trimmel,3-4-3,Sören Storks,10,6,16.7,1,0,0,2023,Union Berlin
+436,2025-04-06,17:30 (21:00),Matchweek 28,Sun,Home,W,1,0,Wolfsburg,1.2,1.9,46,"22,012",Christopher Trimmel,3-5-2,Harm Osmers,13,3,19.2,1,0,0,2023,Union Berlin
+437,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Away,D,0,0,Leverkusen,0.5,0.8,26,"30,210",Christopher Trimmel,3-4-3,Bastian Dankert,7,3,16.9,0,0,0,2023,Union Berlin
+438,2025-04-19,18:30 (22:00),Matchweek 30,Sat,Home,D,4,4,Stuttgart,1.3,0.9,23,"22,012",Christopher Trimmel,3-5-2,Tobias Stieler,12,5,16.2,0,0,0,2023,Union Berlin
+439,2025-04-27,15:30 (19:00),Matchweek 31,Sun,Away,D,1,1,Bochum,0.3,1.5,34,"26,000",Christopher Trimmel,3-5-2,Deniz Aytekin,5,1,15.7,0,0,0,2023,Union Berlin
+440,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Home,D,2,2,Werder Bremen,1.5,1.6,41,"22,012",Christopher Trimmel,3-5-2,Sören Storks,18,8,17.5,0,0,0,2023,Union Berlin
+441,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Home,L,0,3,Heidenheim,0.5,1.1,49,"22,000",Christopher Trimmel,3-4-1-2,Florian Badstübner,10,1,17.6,0,0,0,2023,Union Berlin
+442,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,2,1,Augsburg,0.8,1.7,38,"30,660",Rani Khedira,3-4-3,Felix Brych,5,3,16.9,0,0,0,2023,Union Berlin
+443,2024-08-25,17:30 (21:00),Matchweek 1,Sun,Home,L,0,2,Heidenheim,1.2,1.1,60,"29,157",Jackson Irvine,3-5-2,Sven Jablonski,11,3,18.5,1,0,0,2023,St. Pauli
+444,2024-08-30,20:30 (00:00),Matchweek 2,Fri,Away,L,0,1,Union Berlin,0.5,1.1,61,"22,012",Jackson Irvine,3-1-4-2,Bastian Dankert,8,1,16,0,0,0,2023,St. Pauli
+445,2024-09-15,15:30 (19:00),Matchweek 3,Sun,Away,L,1,3,Augsburg,0.5,2.7,56,"30,660",Jackson Irvine,3-5-2,Felix Zwayer,11,3,19.9,0,0,0,2023,St. Pauli
+446,2024-09-22,19:30 (23:00),Matchweek 4,Sun,Home,D,0,0,RB Leipzig,1.4,0.7,31,"29,251",Jackson Irvine,3-4-3,Robert Hartmann,17,4,14,0,0,0,2023,St. Pauli
+447,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Away,W,3,0,Freiburg,1.1,1.2,27,"34,700",Jackson Irvine,3-4-3,Timo Gerach,10,4,17.6,2,0,0,2023,St. Pauli
+448,2024-10-05,18:30 (22:00),Matchweek 6,Sat,Home,L,0,3,Mainz 05,1.0,1.1,56,"29,546",Jackson Irvine,3-4-3,Christian Dingert,19,4,16.5,0,0,0,2023,St. Pauli
+449,2024-10-18,20:30 (00:00),Matchweek 7,Fri,Away,L,1,2,Dortmund,0.6,2.6,26,"81,365",Jackson Irvine,3-4-3,Matthias Jöllenbeck,10,3,19.7,0,0,0,2023,St. Pauli
+450,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Home,D,0,0,Wolfsburg,0.8,1.1,54,"29,546",Jackson Irvine,3-4-3,Tobias Reichel,14,5,18.7,1,0,0,2023,St. Pauli
+451,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Away,W,2,0,Hoffenheim,0.9,0.7,33,"26,199",Jackson Irvine,3-4-3,Sascha Stegemann,7,3,15.7,0,0,0,2023,St. Pauli
+452,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Home,L,0,1,Bayern Munich,0.1,0.8,25,"29,546",Jackson Irvine,5-4-1,Timo Gerach,3,0,21.8,0,0,0,2023,St. Pauli
+453,2024-11-24,17:30 (22:00),Matchweek 11,Sun,Away,L,0,2,Gladbach,1.1,2.3,52,"54,042",Jackson Irvine,3-4-3,Robin Braun,15,3,16.2,0,0,0,2023,St. Pauli
+454,2024-11-29,20:30 (01:00),Matchweek 12,Fri,Home,W,3,1,Holstein Kiel,1.3,1.2,49,"29,546",Jackson Irvine,3-4-3,Felix Zwayer,11,3,14.4,0,0,0,2023,St. Pauli
+455,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Away,L,1,2,Leverkusen,1.8,0.9,38,"30,210",Jackson Irvine,3-4-3,Matthias Jöllenbeck,12,4,15.3,0,0,0,2023,St. Pauli
+456,2024-12-14,18:30 (23:00),Matchweek 14,Sat,Home,L,0,2,Werder Bremen,0.6,1.0,56,"29,546",Jackson Irvine,3-4-3,Robert Hartmann,15,4,23.9,1,0,0,2023,St. Pauli
+457,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Away,W,1,0,Stuttgart,2.2,2.1,28,"60,000",Jackson Irvine,3-4-3,Felix Brych,10,4,19.5,0,0,1,2023,St. Pauli
+458,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Home,L,0,1,Eint Frankfurt,2.2,1.5,43,"29,546",Jackson Irvine,3-4-3,Harm Osmers,18,4,16.8,0,0,0,2023,St. Pauli
+459,2025-01-15,18:30 (23:00),Matchweek 17,Wed,Away,L,0,1,Bochum,0.7,1.4,49,"26,000",Jackson Irvine,3-4-3,Daniel Siebert,12,1,18.3,1,0,0,2023,St. Pauli
+460,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Away,W,2,0,Heidenheim,1.9,0.7,40,"15,000",Jackson Irvine,3-4-3,Bastian Dankert,6,3,17.7,0,1,1,2023,St. Pauli
+461,2025-01-26,17:30 (22:00),Matchweek 19,Sun,Home,W,3,0,Union Berlin,1.2,1.1,44,"29,546",Jackson Irvine,3-4-3,Sören Storks,16,5,14.9,0,0,0,2023,St. Pauli
+462,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Home,D,1,1,Augsburg,0.8,0.3,45,"29,546",Jackson Irvine,3-4-3,Tobias Reichel,6,1,13,0,0,0,2023,St. Pauli
+463,2025-02-09,17:30 (22:00),Matchweek 21,Sun,Away,L,0,2,RB Leipzig,0.6,1.5,44,"46,021",Jackson Irvine,3-4-3,Florian Badstübner,7,3,15.7,1,0,0,2023,St. Pauli
+464,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Home,L,0,1,Freiburg,0.2,1.3,54,"29,546",Jackson Irvine,3-4-3,Benjamin Brand,5,1,20.9,0,0,0,2023,St. Pauli
+465,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Away,L,0,2,Mainz 05,0.8,1.2,47,"33,305",Jackson Irvine,3-4-3,Felix Zwayer,12,0,17,1,0,0,2023,St. Pauli
+466,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Home,L,0,2,Dortmund,0.4,1.5,43,"29,546",Jackson Irvine,3-4-3,Tobias Stieler,7,1,18.1,0,0,0,2023,St. Pauli
+467,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Away,D,1,1,Wolfsburg,1.5,2.0,43,"28,917",Jackson Irvine,3-4-1-2,Robert Hartmann,14,4,16.2,0,0,0,2023,St. Pauli
+468,2025-03-14,20:30 (01:00),Matchweek 26,Fri,Home,W,1,0,Hoffenheim,2.0,0.2,44,"29,546",Jackson Irvine,3-4-1-2,Felix Brych,10,5,14,1,0,0,2023,St. Pauli
+469,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Away,L,2,3,Bayern Munich,1.0,3.5,35,"75,000",Jackson Irvine,3-4-1-2,Florian Badstübner,10,4,19.2,1,0,0,2023,St. Pauli
+470,2025-04-06,15:30 (19:00),Matchweek 28,Sun,Home,D,1,1,Gladbach,1.9,0.6,63,"29,546",Jackson Irvine,3-4-1-2,Christian Dingert,26,9,19.8,1,0,0,2023,St. Pauli
+471,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Away,W,2,1,Holstein Kiel,1.2,0.5,49,"15,034",Jackson Irvine,3-4-3,Benjamin Brand,14,6,15.8,0,0,0,2023,St. Pauli
+472,2025-04-20,19:30 (23:00),Matchweek 30,Sun,Home,D,1,1,Leverkusen,1.1,0.8,43,"29,546",Eric Smith,3-4-3,Sören Storks,10,5,16.8,3,0,0,2023,St. Pauli
+473,2025-04-27,17:30 (21:00),Matchweek 31,Sun,Away,D,0,0,Werder Bremen,0.6,1.1,49,"42,100",Eric Smith,3-4-3,Tobias Reichel,10,4,16.9,0,0,0,2023,St. Pauli
+474,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Home,L,0,1,Stuttgart,0.4,2.7,30,"29,546",Eric Smith,3-4-3,Florian Exner,6,1,20.3,0,0,0,2023,St. Pauli
+475,2025-05-11,17:30 (21:00),Matchweek 33,Sun,Away,D,2,2,Eint Frankfurt,0.8,1.7,28,"58,000",Eric Smith,3-4-3,Christian Dingert,5,2,14.8,0,0,0,2023,St. Pauli
+476,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,0,2,Bochum,0.8,1.3,57,"29,546",Eric Smith,3-4-3,Felix Zwayer,10,2,18.6,0,0,0,2023,St. Pauli
+477,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Home,W,3,2,Holstein Kiel,3.5,1.7,54,"18,503",Oliver Baumann,3-4-1-2,Tobias Stieler,20,7,17,0,1,1,2023,Hoffenheim
+478,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Away,L,1,3,Eint Frankfurt,1.0,2.4,50,"57,100",Oliver Baumann,3-4-1-2,Florian Badstübner,11,3,21.8,0,0,0,2023,Hoffenheim
+479,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Home,L,1,4,Leverkusen,0.9,3.5,40,"30,150",Oliver Baumann,3-4-1-2,Daniel Schlager,15,5,18.4,1,0,0,2023,Hoffenheim
+480,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Away,L,1,2,Union Berlin,0.4,1.2,49,"21,831",Oliver Baumann,3-5-2,Matthias Jöllenbeck,7,3,20.5,1,0,0,2023,Hoffenheim
+481,2024-09-29,17:30 (21:00),Matchweek 5,Sun,Home,L,3,4,Werder Bremen,1.2,2.9,37,"26,018",Oliver Baumann,3-4-1-2,Tobias Reichel,10,4,17.2,2,0,0,2023,Hoffenheim
+482,2024-10-06,19:30 (23:00),Matchweek 6,Sun,Away,D,1,1,Stuttgart,0.9,1.9,33,"58,000",Oliver Baumann,3-4-1-2,Harm Osmers,7,4,15.5,0,0,0,2023,Hoffenheim
+483,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Home,W,3,1,Bochum,2.5,2.7,50,"19,281",Oliver Baumann,3-4-1-2,Sören Storks,12,7,15.9,0,0,0,2023,Hoffenheim
+484,2024-10-27,19:30 (00:00),Matchweek 8,Sun,Away,D,0,0,Heidenheim,0.7,1.5,53,"15,000",Oliver Baumann,3-4-1-2,Christian Dingert,12,4,21.9,0,0,0,2023,Hoffenheim
+485,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Home,L,0,2,St. Pauli,0.7,0.9,67,"26,199",Oliver Baumann,3-4-1-2,Sascha Stegemann,12,6,17.7,0,0,0,2023,Hoffenheim
+486,2024-11-10,15:30 (20:00),Matchweek 10,Sun,Away,D,0,0,Augsburg,0.5,0.9,56,"28,300",Oliver Baumann,3-4-1-2,Martin Petersen,11,2,20.5,0,0,0,2023,Hoffenheim
+487,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Home,W,4,3,RB Leipzig,2.0,1.6,59,"28,023",Oliver Baumann,4-2-3-1,Frank Willenborg,20,7,15.3,1,0,0,2023,Hoffenheim
+488,2024-12-01,15:30 (20:00),Matchweek 12,Sun,Away,L,0,2,Mainz 05,0.4,2.2,48,"30,400",Oliver Baumann,4-2-3-1,Daniel Siebert,10,2,21.1,0,0,0,2023,Hoffenheim
+489,2024-12-08,17:30 (22:00),Matchweek 13,Sun,Home,D,1,1,Freiburg,1.4,1.0,50,"22,027",Oliver Baumann,4-2-3-1,Sven Jablonski,15,5,17.2,0,0,0,2023,Hoffenheim
+490,2024-12-15,17:30 (22:00),Matchweek 14,Sun,Away,D,1,1,Dortmund,1.0,0.5,46,"81,365",Oliver Baumann,4-4-2,Harm Osmers,12,1,13.4,0,0,0,2023,Hoffenheim
+491,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Home,L,1,2,Gladbach,3.5,0.7,65,"28,923",Oliver Baumann,4-4-2,Bastian Dankert,17,7,14.7,0,1,1,2023,Hoffenheim
+492,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Home,L,0,1,Wolfsburg,0.9,0.7,55,"18,114",Oliver Baumann,4-2-3-1,Christian Dingert,15,2,17.4,0,0,0,2023,Hoffenheim
+493,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Away,L,0,5,Bayern Munich,0.2,3.4,35,"75,000",Oliver Baumann,4-2-3-1,Timo Gerach,5,2,28,0,0,0,2023,Hoffenheim
+494,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Away,W,3,1,Holstein Kiel,0.8,1.0,47,"13,923",Oliver Baumann,4-2-3-1,Felix Brych,11,6,13.7,0,0,0,2023,Hoffenheim
+495,2025-01-26,15:30 (20:00),Matchweek 19,Sun,Home,D,2,2,Eint Frankfurt,2.4,2.4,51,"30,150",Andrej Kramarić,4-2-3-1,Sascha Stegemann,24,8,18,0,0,0,2023,Hoffenheim
+496,2025-02-02,17:30 (22:00),Matchweek 20,Sun,Away,L,1,3,Leverkusen,1.9,1.4,52,"29,278",Kevin Akpoguma,3-4-3,Robin Braun,16,7,14.7,1,0,0,2023,Hoffenheim
+497,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Home,L,0,4,Union Berlin,1.1,2.8,64,"20,023",Andrej Kramarić,4-2-3-1,Tobias Stieler,16,4,19.6,1,0,0,2023,Hoffenheim
+498,2025-02-16,15:30 (20:00),Matchweek 22,Sun,Away,W,3,1,Werder Bremen,1.4,1.1,37,"39,400",Andrej Kramarić,4-2-3-1,Frank Willenborg,15,6,15.8,0,0,0,2023,Hoffenheim
+499,2025-02-23,19:30 (00:00),Matchweek 23,Sun,Home,D,1,1,Stuttgart,1.0,2.1,45,"30,150",Andrej Kramarić,5-3-2,Christian Dingert,9,2,17.7,0,0,0,2023,Hoffenheim
+500,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Away,W,1,0,Bochum,0.6,0.9,42,"24,120",Oliver Baumann,4-2-3-1,Florian Badstübner,10,2,19.7,0,0,0,2023,Hoffenheim
+501,2025-03-09,17:30 (22:00),Matchweek 25,Sun,Home,D,1,1,Heidenheim,1.3,1.2,55,"20,814",Oliver Baumann,4-1-3-2,Daniel Schlager,16,3,20,0,0,0,2023,Hoffenheim
+502,2025-03-14,20:30 (01:00),Matchweek 26,Fri,Away,L,0,1,St. Pauli,0.2,2.0,56,"29,546",Oliver Baumann,4-2-3-1,Felix Brych,4,0,18.6,0,0,0,2023,Hoffenheim
+503,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Home,D,1,1,Augsburg,1.4,0.6,56,"21,427",Oliver Baumann,4-2-3-1,Tobias Reichel,12,3,19.7,1,1,1,2023,Hoffenheim
+504,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Away,L,1,3,RB Leipzig,0.9,1.6,34,"44,478",Oliver Baumann,4-2-3-1,Robert Hartmann,9,5,16.9,0,0,0,2023,Hoffenheim
+505,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Home,W,2,0,Mainz 05,1.7,1.2,36,"30,150",Oliver Baumann,4-2-3-1,Sven Jablonski,8,5,14.4,0,0,0,2023,Hoffenheim
+506,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Away,L,2,3,Freiburg,1.5,1.3,60,"34,100",Oliver Baumann,3-4-3,Sascha Stegemann,19,6,18.4,1,0,0,2023,Hoffenheim
+507,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Home,L,2,3,Dortmund,1.1,2.6,39,"30,150",Oliver Baumann,3-4-3,Benjamin Brand,11,3,15.7,1,0,0,2023,Hoffenheim
+508,2025-05-03,15:30 (19:00),Matchweek 32,Sat,Away,D,4,4,Gladbach,1.8,1.4,56,"52,000",Andrej Kramarić,3-4-3,Frank Willenborg,26,8,18.4,0,0,0,2023,Hoffenheim
+509,2025-05-09,20:30 (00:00),Matchweek 33,Fri,Away,D,2,2,Wolfsburg,1.4,1.0,46,"20,145",Oliver Baumann,3-1-4-2,Matthias Jöllenbeck,17,7,17.1,1,0,0,2023,Hoffenheim
+510,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,0,4,Bayern Munich,0.4,1.4,34,"30,150",Oliver Baumann,3-4-3,Daniel Schlager,6,2,17.9,0,0,0,2023,Hoffenheim
+511,2024-08-25,17:30 (21:00),Matchweek 1,Sun,Away,W,2,0,St. Pauli,1.1,1.2,40,"29,157",Patrick Mainka,4-2-3-1,Sven Jablonski,5,3,17,1,0,0,2023,Heidenheim
+512,2024-09-01,15:30 (19:00),Matchweek 2,Sun,Home,W,4,0,Augsburg,3.1,0.7,36,"15,000",Patrick Mainka,4-2-3-1,Martin Petersen,14,7,17.2,0,1,1,2023,Heidenheim
+513,2024-09-13,20:30 (00:00),Matchweek 3,Fri,Away,L,2,4,Dortmund,1.8,2.6,40,"81,365",Patrick Mainka,4-2-3-1,Robert Schröder,10,3,18.2,0,1,1,2023,Heidenheim
+514,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Home,L,0,3,Freiburg,0.7,1.4,42,"15,000",Patrick Mainka,3-1-4-2,Benjamin Brand,7,1,16.7,0,0,0,2023,Heidenheim
+515,2024-09-28,15:30 (19:00),Matchweek 5,Sat,Away,W,2,0,Mainz 05,1.2,0.6,50,"31,500",Patrick Mainka,4-2-3-1,Florian Exner,14,6,14.5,0,0,0,2023,Heidenheim
+516,2024-10-06,15:30 (19:00),Matchweek 6,Sun,Home,L,0,1,RB Leipzig,1.0,1.4,45,"15,000",Patrick Mainka,3-4-1-2,Sascha Stegemann,14,4,18.8,0,0,0,2023,Heidenheim
+517,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Away,L,2,3,Gladbach,2.0,3.6,34,"50,000",Patrick Mainka,4-2-3-1,Daniel Siebert,18,5,15.9,1,1,1,2023,Heidenheim
+518,2024-10-27,19:30 (00:00),Matchweek 8,Sun,Home,D,0,0,Hoffenheim,1.5,0.7,47,"15,000",Patrick Mainka,4-3-3,Christian Dingert,17,3,18.4,2,0,0,2023,Heidenheim
+519,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Away,L,0,1,Holstein Kiel,1.2,1.1,55,"14,405",Patrick Mainka,3-4-3,Frank Willenborg,17,4,15,0,0,0,2023,Heidenheim
+520,2024-11-10,19:30 (00:00),Matchweek 10,Sun,Home,L,1,3,Wolfsburg,2.4,1.5,65,"15,000",Patrick Mainka,4-2-3-1,Harm Osmers,19,4,14.6,1,0,0,2023,Heidenheim
+521,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Away,L,2,5,Leverkusen,1.1,2.2,22,"29,103",Patrick Mainka,4-3-1-2,Bastian Dankert,6,3,16.7,0,0,0,2023,Heidenheim
+522,2024-12-01,17:30 (22:00),Matchweek 12,Sun,Home,L,0,4,Eint Frankfurt,0.7,2.6,46,"15,000",Patrick Mainka,3-4-3,Florian Exner,8,1,17,0,0,0,2023,Heidenheim
+523,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Away,L,2,4,Bayern Munich,1.3,2.4,18,"75,000",Patrick Mainka,5-3-2,Sören Storks,2,2,9.5,0,0,0,2023,Heidenheim
+524,2024-12-15,15:30 (20:00),Matchweek 14,Sun,Home,L,1,3,Stuttgart,1.0,2.3,34,"15,000",Patrick Mainka,4-2-3-1,Christian Dingert,9,2,18,0,0,0,2023,Heidenheim
+525,2024-12-22,15:30 (20:00),Matchweek 15,Sun,Away,L,0,2,Bochum,0.6,1.6,48,"24,328",Patrick Mainka,4-1-3-2,Sven Jablonski,10,2,19.5,1,0,0,2023,Heidenheim
+526,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Home,W,2,0,Union Berlin,1.4,1.1,58,"15,000",Patrick Mainka,4-2-3-1,Robert Hartmann,16,8,15.9,2,0,0,2023,Heidenheim
+527,2025-01-15,20:30 (01:00),Matchweek 17,Wed,Away,D,3,3,Werder Bremen,1.4,1.5,48,"39,350",Patrick Mainka,4-4-2,Matthias Jöllenbeck,14,5,17.6,1,0,0,2023,Heidenheim
+528,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Home,L,0,2,St. Pauli,0.7,1.9,60,"15,000",Patrick Mainka,4-2-3-1,Bastian Dankert,8,1,14.1,0,0,0,2023,Heidenheim
+529,2025-01-25,15:30 (20:00),Matchweek 19,Sat,Away,L,1,2,Augsburg,1.2,1.1,40,"30,660",Patrick Mainka,4-2-3-1,Florian Badstübner,11,6,19.2,0,0,0,2023,Heidenheim
+530,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Home,L,1,2,Dortmund,0.6,2.2,37,"15,000",Patrick Mainka,4-2-3-1,Frank Willenborg,11,5,20,0,0,0,2023,Heidenheim
+531,2025-02-08,15:30 (20:00),Matchweek 21,Sat,Away,L,0,1,Freiburg,0.5,1.0,47,"34,000",Patrick Mainka,4-2-3-1,Timo Gerach,11,5,20.1,0,0,0,2023,Heidenheim
+532,2025-02-16,19:30 (00:00),Matchweek 22,Sun,Home,L,0,2,Mainz 05,0.6,2.0,56,"15,000",Patrick Mainka,3-4-3,Felix Brych,12,3,20.2,0,0,0,2023,Heidenheim
+533,2025-02-23,15:30 (20:00),Matchweek 23,Sun,Away,D,2,2,RB Leipzig,0.8,1.9,26,"36,619",Patrick Mainka,3-4-3,Martin Petersen,3,1,28.5,0,1,1,2023,Heidenheim
+534,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Home,L,0,3,Gladbach,1.6,1.8,45,"15,000",Patrick Mainka,3-4-3,Sören Storks,20,4,18.3,1,0,0,2023,Heidenheim
+535,2025-03-09,17:30 (22:00),Matchweek 25,Sun,Away,D,1,1,Hoffenheim,1.2,1.3,45,"20,814",Patrick Mainka,4-3-1-2,Daniel Schlager,23,5,16,0,0,0,2023,Heidenheim
+536,2025-03-16,17:30 (22:00),Matchweek 26,Sun,Home,W,3,1,Holstein Kiel,1.5,1.5,39,"15,000",Patrick Mainka,3-4-1-2,Harm Osmers,14,5,16.3,0,0,0,2023,Heidenheim
+537,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Away,W,1,0,Wolfsburg,1.3,1.3,39,"21,545",Patrick Mainka,3-4-1-2,Bastian Dankert,10,3,17,0,1,1,2023,Heidenheim
+538,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Home,L,0,1,Leverkusen,1.0,0.4,49,"15,000",Patrick Mainka,5-4-1,Tobias Stieler,10,2,13.8,0,0,0,2023,Heidenheim
+539,2025-04-13,17:30 (21:00),Matchweek 29,Sun,Away,L,0,3,Eint Frankfurt,1.7,3.7,56,"57,500",Patrick Mainka,3-1-4-2,Timo Gerach,14,3,19.4,0,0,0,2023,Heidenheim
+540,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Home,L,0,4,Bayern Munich,0.6,3.2,32,"15,000",Patrick Mainka,4-3-1-2,Frank Willenborg,4,1,13.4,0,0,0,2023,Heidenheim
+541,2025-04-25,20:30 (00:00),Matchweek 31,Fri,Away,W,1,0,Stuttgart,0.3,1.8,31,"60,000",Patrick Mainka,5-3-2,Tobias Welz,6,2,21.4,0,0,0,2023,Heidenheim
+542,2025-05-02,20:30 (00:00),Matchweek 32,Fri,Home,D,0,0,Bochum,0.7,1.3,46,"15,000",Patrick Mainka,3-4-3,Sascha Stegemann,12,3,20.4,0,0,0,2023,Heidenheim
+543,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Away,W,3,0,Union Berlin,1.1,0.5,51,"22,000",Patrick Mainka,3-4-3,Florian Badstübner,8,4,15,0,0,0,2023,Heidenheim
+544,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Home,L,1,4,Werder Bremen,1.6,2.2,51,"15,000",Patrick Mainka,3-4-3,Tobias Welz,21,8,17.3,2,0,0,2023,Heidenheim
+545,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Away,L,2,3,Hoffenheim,1.7,3.5,46,"18,503",Lewis Holtby,3-4-1-2,Tobias Stieler,17,6,16.9,0,0,0,2023,Holstein Kiel
+546,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Home,L,0,2,Wolfsburg,1.1,1.3,54,"15,034",Lewis Holtby,3-4-1-2,Florian Exner,13,5,19.2,1,0,0,2023,Holstein Kiel
+547,2024-09-14,18:30 (22:00),Matchweek 3,Sat,Home,L,1,6,Bayern Munich,0.3,3.2,30,"15,034",Lewis Holtby,4-3-3,Tobias Reichel,5,1,16.9,0,0,0,2023,Holstein Kiel
+548,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Away,D,2,2,Bochum,1.9,0.8,56,"26,000",Lewis Holtby,3-4-3,Martin Petersen,14,4,16.5,1,0,0,2023,Holstein Kiel
+549,2024-09-29,15:30 (19:00),Matchweek 5,Sun,Home,L,2,4,Eint Frankfurt,1.1,2.1,47,"15,034",Lewis Holtby,3-5-2,Tobias Stieler,9,4,23.4,1,1,1,2023,Holstein Kiel
+550,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Away,D,2,2,Leverkusen,1.6,2.1,26,"30,210",Lewis Holtby,3-5-2,Robert Hartmann,7,3,13.6,0,1,1,2023,Holstein Kiel
+551,2024-10-20,15:30 (19:00),Matchweek 7,Sun,Home,L,0,2,Union Berlin,1.3,1.1,48,"15,034",Timo Becker,5-3-2,Timo Gerach,12,4,14.7,0,0,0,2023,Holstein Kiel
+552,2024-10-26,15:30 (19:00),Matchweek 8,Sat,Away,L,1,2,Stuttgart,0.5,1.6,42,"59,000",Timo Becker,3-5-2,Robert Hartmann,9,3,18,0,0,0,2023,Holstein Kiel
+553,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Home,W,1,0,Heidenheim,1.1,1.2,45,"14,405",Timo Becker,3-5-2,Frank Willenborg,11,6,17.2,0,0,0,2023,Holstein Kiel
+554,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Away,L,1,2,Werder Bremen,0.7,1.7,40,"42,100",Timo Becker,3-5-2,Sören Storks,12,5,17,0,0,0,2023,Holstein Kiel
+555,2024-11-24,15:30 (20:00),Matchweek 11,Sun,Home,L,0,3,Mainz 05,0.4,2.2,38,"14,906",Lewis Holtby,3-1-4-2,Sascha Stegemann,7,2,16.8,0,0,0,2023,Holstein Kiel
+556,2024-11-29,20:30 (01:00),Matchweek 12,Fri,Away,L,1,3,St. Pauli,1.2,1.3,51,"29,546",Lewis Holtby,3-5-2,Felix Zwayer,9,2,20.3,0,0,1,2023,Holstein Kiel
+557,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Home,L,0,2,RB Leipzig,1.2,1.6,56,"14,715",Timon Weiner,3-5-2,Florian Badstübner,17,5,16,0,0,0,2023,Holstein Kiel
+558,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Away,L,1,4,Gladbach,0.6,2.4,44,"52,210",Lewis Holtby,3-5-2,Daniel Schlager,12,3,23.3,0,0,0,2023,Holstein Kiel
+559,2024-12-21,15:30 (20:00),Matchweek 15,Sat,Home,W,5,1,Augsburg,1.7,1.5,37,"14,830",Timon Weiner,3-4-1-2,Tobias Welz,8,6,12.4,1,0,0,2023,Holstein Kiel
+560,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Away,L,2,3,Freiburg,1.8,0.7,49,"33,700",Timo Becker,3-4-3,Sören Storks,14,7,15.7,0,0,0,2023,Holstein Kiel
+561,2025-01-14,18:30 (23:00),Matchweek 17,Tue,Home,W,4,2,Dortmund,1.6,1.0,25,"15,034",Timo Becker,3-4-3,Martin Petersen,11,7,19.3,0,0,0,2023,Holstein Kiel
+562,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Home,L,1,3,Hoffenheim,1.0,0.8,53,"13,923",Timon Weiner,3-4-3,Felix Brych,12,3,16.3,1,0,0,2023,Holstein Kiel
+563,2025-01-24,20:30 (01:00),Matchweek 19,Fri,Away,D,2,2,Wolfsburg,0.2,2.0,31,"22,103",Timo Becker,3-4-3,Sven Jablonski,5,2,12.4,0,0,0,2023,Holstein Kiel
+564,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Away,L,3,4,Bayern Munich,1.8,3.4,29,"75,000",Lewis Holtby,5-4-1,Florian Exner,10,5,15.3,0,0,0,2023,Holstein Kiel
+565,2025-02-09,15:30 (20:00),Matchweek 21,Sun,Home,D,2,2,Bochum,1.9,2.3,48,"15,034",Lewis Holtby,3-1-4-2,Felix Zwayer,9,2,16.5,1,1,1,2023,Holstein Kiel
+566,2025-02-16,17:30 (22:00),Matchweek 22,Sun,Away,L,1,3,Eint Frankfurt,1.4,2.5,49,"57,700",Lewis Holtby,3-1-4-2,Robert Hartmann,10,4,18,1,0,0,2023,Holstein Kiel
+567,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Home,L,0,2,Leverkusen,0.3,1.8,38,"15,034",Timon Weiner,3-5-2,Daniel Schlager,4,3,25,0,0,0,2023,Holstein Kiel
+568,2025-03-02,15:30 (20:00),Matchweek 24,Sun,Away,W,1,0,Union Berlin,1.0,1.2,48,"22,012",Timo Becker,3-4-1-2,Tobias Reichel,10,3,15.6,0,0,0,2023,Holstein Kiel
+569,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Home,D,2,2,Stuttgart,1.4,0.8,52,"15,034",Timo Becker,3-4-3,Bastian Dankert,17,5,19.5,1,0,0,2023,Holstein Kiel
+570,2025-03-16,17:30 (22:00),Matchweek 26,Sun,Away,L,1,3,Heidenheim,1.5,1.5,61,"15,000",Timo Becker,3-5-2,Harm Osmers,16,4,19.4,1,0,0,2023,Holstein Kiel
+571,2025-03-29,15:30 (20:00),Matchweek 27,Sat,Home,L,0,3,Werder Bremen,0.5,1.8,55,"15,034",Steven Skrzybski,3-4-1-2,Sascha Stegemann,11,0,20.3,1,0,0,2023,Holstein Kiel
+572,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Away,D,1,1,Mainz 05,0.9,1.8,42,"32,500",Timo Becker,3-4-1-2,Frank Willenborg,10,5,13.4,0,0,0,2023,Holstein Kiel
+573,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Home,L,1,2,St. Pauli,0.5,1.2,51,"15,034",Timo Becker,3-4-1-2,Benjamin Brand,6,2,19.9,0,0,0,2023,Holstein Kiel
+574,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Away,D,1,1,RB Leipzig,0.8,1.9,39,"45,940",Timo Becker,3-4-3,Felix Brych,14,3,17.5,0,0,0,2023,Holstein Kiel
+575,2025-04-26,15:30 (19:00),Matchweek 31,Sat,Home,W,4,3,Gladbach,3.5,1.6,38,"15,034",Timo Becker,3-4-1-2,Robert Hartmann,22,11,17.1,0,0,0,2023,Holstein Kiel
+576,2025-05-04,15:30 (19:00),Matchweek 32,Sun,Away,W,3,1,Augsburg,1.7,3.2,28,"28,660",Carl Johansson,3-4-1-2,Harm Osmers,6,3,17.3,0,1,1,2023,Holstein Kiel
+577,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Home,L,1,2,Freiburg,1.0,1.4,60,"15,034",Carl Johansson,3-4-1-2,Robert Schröder,15,3,25.6,2,0,0,2023,Holstein Kiel
+578,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,L,0,3,Dortmund,0.8,2.4,27,"81,365",Lewis Holtby,3-4-3,Harm Osmers,4,2,11.3,0,0,0,2023,Holstein Kiel
+579,2024-08-24,15:30 (19:00),Matchweek 1,Sat,Away,L,0,1,RB Leipzig,1.0,1.3,38,"44,611",Anthony Losilla,4-1-2-1-2,Benjamin Brand,10,3,19.3,1,0,0,2023,Bochum
+580,2024-08-31,15:30 (19:00),Matchweek 2,Sat,Home,L,0,2,Gladbach,0.7,2.9,39,"26,000",Anthony Losilla,4-1-2-1-2,Sören Storks,15,4,21.3,0,0,0,2023,Bochum
+581,2024-09-14,15:30 (19:00),Matchweek 3,Sat,Away,L,1,2,Freiburg,0.9,3.7,46,"34,100",Maximilian Wittek,4-4-2,Daniel Siebert,13,3,19.8,0,0,0,2023,Bochum
+582,2024-09-21,15:30 (19:00),Matchweek 4,Sat,Home,D,2,2,Holstein Kiel,0.8,1.9,44,"26,000",Philipp Hofmann,4-1-2-1-2,Martin Petersen,14,3,17,0,0,0,2023,Bochum
+583,2024-09-27,20:30 (00:00),Matchweek 5,Fri,Away,L,2,4,Dortmund,1.3,3.2,34,"81,365",Anthony Losilla,4-1-2-1-2,Felix Brych,10,5,20,0,0,0,2023,Bochum
+584,2024-10-05,15:30 (19:00),Matchweek 6,Sat,Home,L,1,3,Wolfsburg,1.7,2.4,58,"24,630",Anthony Losilla,4-3-1-2,Max Burda,18,5,18.9,1,0,0,2023,Bochum
+585,2024-10-19,15:30 (19:00),Matchweek 7,Sat,Away,L,1,3,Hoffenheim,2.7,2.5,50,"19,281",Anthony Losilla,4-1-4-1,Sören Storks,12,3,19.8,1,0,1,2023,Bochum
+586,2024-10-27,15:30 (20:00),Matchweek 8,Sun,Home,L,0,5,Bayern Munich,0.6,2.2,28,"26,000",Anthony Losilla,3-5-2,Florian Exner,6,1,24.2,1,0,0,2023,Bochum
+587,2024-11-02,15:30 (20:00),Matchweek 9,Sat,Away,L,2,7,Eint Frankfurt,1.8,3.5,36,"58,000",Anthony Losilla,4-4-2,Daniel Schlager,11,8,17.5,0,0,0,2023,Bochum
+588,2024-11-09,15:30 (20:00),Matchweek 10,Sat,Home,D,1,1,Leverkusen,0.7,1.2,30,"26,000",Anthony Losilla,5-4-1,Robert Hartmann,15,3,20.1,0,0,0,2023,Bochum
+589,2024-11-23,15:30 (20:00),Matchweek 11,Sat,Away,L,0,2,Stuttgart,0.7,1.7,42,"59,000",Anthony Losilla,5-3-2,Benjamin Brand,9,2,19.4,0,0,0,2023,Bochum
+590,2024-11-30,15:30 (20:00),Matchweek 12,Sat,Away,L,0,1,Augsburg,0.3,1.9,48,"29,556",Anthony Losilla,3-5-2,Tobias Reichel,7,1,22,0,0,0,2023,Bochum
+591,2024-12-07,15:30 (20:00),Matchweek 13,Sat,Home,L,0,1,Werder Bremen,1.2,0.8,52,"26,000",Philipp Hofmann,3-4-3,Felix Brych,12,2,21.3,0,0,0,2023,Bochum
+592,2024-12-14,15:30 (20:00),Matchweek 14,Sat,Away,W,2,0,Union Berlin,1.0,2.5,31,"22,012",Maximilian Wittek,3-4-3,Martin Petersen,13,3,15.1,0,0,0,2023,Bochum
+593,2024-12-22,15:30 (20:00),Matchweek 15,Sun,Home,W,2,0,Heidenheim,1.6,0.6,52,"24,328",Anthony Losilla,3-5-2,Sven Jablonski,14,4,16.9,3,0,0,2023,Bochum
+594,2025-01-11,15:30 (20:00),Matchweek 16,Sat,Away,L,0,2,Mainz 05,0.6,1.9,42,"32,000",Anthony Losilla,3-5-2,Benjamin Brand,11,2,14.8,0,0,0,2023,Bochum
+595,2025-01-15,18:30 (23:00),Matchweek 17,Wed,Home,W,1,0,St. Pauli,1.4,0.7,51,"26,000",Philipp Hofmann,3-4-3,Daniel Siebert,13,5,15.2,0,0,0,2023,Bochum
+596,2025-01-18,15:30 (20:00),Matchweek 18,Sat,Home,D,3,3,RB Leipzig,2.7,2.2,45,"24,158",Maximilian Wittek,3-4-1-2,Robert Hartmann,13,2,19.3,0,1,1,2023,Bochum
+597,2025-01-25,18:30 (23:00),Matchweek 19,Sat,Away,L,0,3,Gladbach,0.5,2.3,43,"54,042",Anthony Losilla,3-1-4-2,Matthias Jöllenbeck,10,4,14.6,0,0,0,2023,Bochum
+598,2025-02-01,15:30 (20:00),Matchweek 20,Sat,Home,L,0,1,Freiburg,1.0,1.7,58,"25,900",Philipp Hofmann,4-2-3-1,Tobias Welz,22,4,20,0,0,0,2023,Bochum
+599,2025-02-09,15:30 (20:00),Matchweek 21,Sun,Away,D,2,2,Holstein Kiel,2.3,1.9,52,"15,034",Maximilian Wittek,4-2-3-1,Felix Zwayer,20,4,13.1,0,0,0,2023,Bochum
+600,2025-02-15,15:30 (20:00),Matchweek 22,Sat,Home,W,2,0,Dortmund,2.7,2.6,31,"26,000",Philipp Hofmann,5-3-2,Harm Osmers,18,9,15.2,0,0,0,2023,Bochum
+601,2025-02-22,15:30 (20:00),Matchweek 23,Sat,Away,D,1,1,Wolfsburg,0.8,1.6,46,"23,772",Philipp Hofmann,3-5-2,Timo Gerach,11,5,15,0,0,0,2023,Bochum
+602,2025-03-01,15:30 (20:00),Matchweek 24,Sat,Home,L,0,1,Hoffenheim,0.9,0.6,58,"24,120",Philipp Hofmann,3-5-2,Florian Badstübner,12,3,15.4,1,0,0,2023,Bochum
+603,2025-03-08,15:30 (20:00),Matchweek 25,Sat,Away,W,3,2,Bayern Munich,1.1,2.4,27,"75,000",Philipp Hofmann,5-3-2,Christian Dingert,8,5,12.4,0,0,0,2023,Bochum
+604,2025-03-16,15:30 (20:00),Matchweek 26,Sun,Home,L,1,3,Eint Frankfurt,1.4,2.5,51,"26,000",Philipp Hofmann,4-4-2,Felix Zwayer,17,7,13.7,0,0,0,2023,Bochum
+605,2025-03-28,20:30 (01:00),Matchweek 27,Fri,Away,L,1,3,Leverkusen,0.5,2.0,34,"30,210",Philipp Hofmann,5-3-2,Sven Jablonski,8,3,22.5,0,0,0,2023,Bochum
+606,2025-04-05,15:30 (19:00),Matchweek 28,Sat,Home,L,0,4,Stuttgart,0.8,2.8,54,"26,000",Philipp Hofmann,3-5-2,Felix Brych,11,2,16.7,0,0,0,2023,Bochum
+607,2025-04-12,15:30 (19:00),Matchweek 29,Sat,Home,L,1,2,Augsburg,2.8,1.1,53,"25,048",Philipp Hofmann,3-5-2,Martin Petersen,25,9,16.1,1,0,0,2023,Bochum
+608,2025-04-19,15:30 (19:00),Matchweek 30,Sat,Away,L,0,1,Werder Bremen,0.7,1.8,52,"42,100",Philipp Hofmann,3-4-3,Robert Schröder,12,1,19.5,2,0,0,2023,Bochum
+609,2025-04-27,15:30 (19:00),Matchweek 31,Sun,Home,D,1,1,Union Berlin,1.5,0.3,66,"26,000",Philipp Hofmann,3-4-1-2,Deniz Aytekin,9,3,20.1,0,0,1,2023,Bochum
+610,2025-05-02,20:30 (00:00),Matchweek 32,Fri,Away,D,0,0,Heidenheim,1.3,0.7,54,"15,000",Philipp Hofmann,3-1-4-2,Sascha Stegemann,14,3,16.3,0,0,0,2023,Bochum
+611,2025-05-10,15:30 (19:00),Matchweek 33,Sat,Home,L,1,4,Mainz 05,0.9,1.5,44,"26,000",Maximilian Wittek,3-1-4-2,Tobias Stieler,11,6,20,0,0,0,2023,Bochum
+612,2025-05-17,15:30 (19:00),Matchweek 34,Sat,Away,W,2,0,St. Pauli,1.3,0.8,43,"29,546",Maximilian Wittek,3-5-2,Felix Zwayer,9,6,17.5,0,0,0,2023,Bochum
