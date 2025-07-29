@@ -1,5 +1,30 @@
 # Bundesliga Match Predictor
 
-## description
+This project includes a Streamlit app to predict Bundesliga match outcomes using a machine learning model trained on historical data and rolling averages.
 
-This project consists of a supervised machine learning model which takes into consideration the outcomes and statistics of over 600 matches played in the latest Bundesliga season. Using the Random Forest Classification model, as well as in depth statistics from each game such as goals, possession, set pieces, etc. it aims to predict the results of upcoming fixtures.
+## Setup
+
+1. Install dependencies:
+
+```bash
+pip install -r Bundesliga\ ML/requirements.txt
+```
+
+2. Ensure the following files are present in the `Bundesliga ML` directory:
+   - `match_data_expanded.csv`
+   - `logos/` folder with team logos
+   - `streamlit_app.py`
+
+## Running the App
+
+From the `Bundesliga ML` directory, run:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+The app will open in your browser. Select two different teams to see the predicted outcome and win probability, with team logos displayed.
+
+---
+
+*Model uses rolling averages of recent games and match context for prediction. Logos © respective clubs.*
