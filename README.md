@@ -1,30 +1,33 @@
-# Bundesliga Match Predictor
 
-This project includes a Streamlit app to predict Bundesliga match outcomes using a machine learning model trained on historical data and rolling averages.
+# Soccer Match Predictor
 
-## Setup
+A supervised machine learning model which predicts the outcomes of future soccer matches using in-game statistics data obtained from historical games
 
-1. Install dependencies:
+This machine learning model leverages over 600 games played over the course of the last 2 seasons in the German football league to make accurate predictions about future match-ups.
 
-```bash
-pip install -r Bundesliga\ ML/requirements.txt
-```
+Check out the project right [here](https://match-predictor.streamlit.app/)
 
-2. Ensure the following files are present in the `Bundesliga ML` directory:
-   - `match_data_expanded.csv`
-   - `logos/` folder with team logos
-   - `streamlit_app.py`
+![Match Predictor](https://github.com/ayaanhaq/BundesligaMatchPredictor/blob/deployment/logos/ss1.png "Match Predictor")
 
-## Running the App
+Historical statistics such as Shots, Shots on Target, Free Kicks, Penalties, etc. are taken into account when making predictions. Furthermore, team form is also incorporated into the calculations, as well as rolling averages of each statistic from the last 3 games to better reflect the momentum each team is carrying into the next match. 
 
-From the `Bundesliga ML` directory, run:
+![Match Predictor](https://github.com/ayaanhaq/BundesligaMatchPredictor/blob/deployment/logos/ss2.png "Match Predictor")
 
-```bash
-streamlit run streamlit_app.py
-```
+## Features
+- Match Outcome Prediction: Predicts Bundesliga match results using a trained Random Forest classifier on 600+ historical games.
+- Stat-Driven Insights: Incorporates advanced match stats such as shots, shots on target, avg shot distance, penalties, and free kicks.
+- Rolling Averages: Factors in recent team form using rolling statistical windows for more accurate, context-aware predictions.
+- Interactive Web App: Built with Streamlit, providing real-time predictions with user-friendly UI and confidence scores.
+- Deployed and Live: Instantly accessible via web, no setup needed to try it out.
 
-The app will open in your browser. Select two different teams to see the predicted outcome and win probability, with team logos displayed.
+## Technologies Used
+- Python - Language used for data processing and modeling
+- Pandas & NumPy – For efficient data manipulation, cleaning, and rolling average calculations
+- Scikit-learn – To train and evaluate the Random Forest model for match outcome prediction
+- Streamlit – Interactive web app for real-time predictions and user interaction
+- Matplotlib & Seaborn – Visualize model performance and feature importance
 
----
+## Contribution
 
-*Model uses rolling averages of recent games and match context for prediction. Logos © respective clubs.*
+Feel free to contribute to this project, or maybe even expand on it further.
+
